@@ -2,20 +2,31 @@
 layout: default
 ---
 
-In 2017, personal stories about sexual harassment and discrimination within the Venture Capital industry were shared publicly, many for the first time. In response, a number of forward-looking VCs spoke out about ways to create more inclusive interactions, crafted anti-harassment / discrimination policies, and launched corresponding initiatives. 
+In 2017, a wave of sexual harassment and discrimination experiences were bravely shared publicly, many for the first time. In response, a number of forward-looking Venture Capital firms decided the industry needed a better way of doing business.
 
-If 2017 was the period of sharing, listening and processing, 2018 is the time for action and moving forward. 
+If 2017 was the period of sharing, listening and processing, 2018 is the time for action and moving forward.
 
-We created this tool to highlight those who are sparking change in the industry and have transparent policies to support the change in culture. We hope that this will serve as a hub for information and resources by and for VCs to create a positive impact in the broader community. 
-
- #WeAreMovingForward
+We created this tool to highlight the firms who are sparking change in the industry and have transparent policies to support culture changes. We are #MovingForward.
 
 
 # [](#our-mission)Our Mission
 
 We’ve asked a number of VCs to share the concrete steps they have taken to nurture a harassment-free workplace, including publishing supporting policies and/or establishing a point of contact for addressing such issues. If these steps are insufficient we should have conversations to push for more.
 
-Here are our two primary goals with this repository:
+
+# [](#vcs-moving-forward)VCs Moving Forward
+_Firms listed in alphabetical order_
+
+| Organization        | Do you have an internal, external policy or both? (public links preferred)  | How we are moving forward (<100 word statement; public links/references preferred) | Firm point-of-contact for entrepreneur to report harassment issues (including contact type i.e. “third party”) |
+|:-------------|:------------------|:------| :------|
+| To be published on March 8, [International Women's Day](https://www.internationalwomensday.com/)           | X | X  | X  |
+| X | X   | X  | X  |
+| X | X   | X  | X  |
+| X | X   | X  | X  |
+
+# [](#our-objectives)Our Objectives
+
+A group of entrepreneurs came together with two primary goals with this repository:
 
 **Goal One**: We want to highlight the public strategies that each firm is taking so that we can all learn and move forward together and change the industry. 
 
@@ -33,17 +44,6 @@ NVCA’s Path Forward to Address Sexual Harassment in VC, which is developing st
 **Goal Two**: Make the feedback channel between entrepreneurs and VC firms more transparent. One way firms can do this is by providing a formal point-of-contact for entrepreneurs to feel comfortable reporting or sharing any incidences of harassment or discrimination without fear of retaliation. This contact can also answer questions about the firm’s policy or provide further information on how the firm is addressing such issues with internal employees and external members that they interact with (such as entrepreneurs who pitch partners at the firm).
 
 Some VCs have hired third-party HR representatives to provide an additional measure of objectivity and protection for people who may need to raise concerns. 
-
-
-# [](#vcs-moving-forward)VCs Moving Forward
-_Firms listed in alphabetical order_
-
-| Organization        | Do you have an internal, external policy or both? (public links preferred)  | How we are moving forward (<100 word statement; public links/references preferred) | Firm point-of-contact for entrepreneur to report harassment issues (including contact type i.e. “third party”) |
-|:-------------|:------------------|:------| :------|
-| To be published on March 8, [International Women's Day](https://www.internationalwomensday.com/)           | X | X  | X  |
-| X | X   | X  | X  |
-| X | X   | X  | X  |
-| X | X   | X  | X  |
 
 # [](#next-steps)Next Steps
 
