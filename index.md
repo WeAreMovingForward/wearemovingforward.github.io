@@ -50,6 +50,7 @@ We’re also in favor of having an internal point-of-contact contact who can ans
 # [](#next-steps)Next Steps
 
 **Learn more and educate your firm**. 
+
 _Model policies and strategies:_
 * [A template for investor/founder sexual harassment policy](https://techcrunch.com/2017/07/05/harassment-policy-template/) (TechCrunch)
 * [Level classifications of harassment and assault](https://cherylyeoh.com/2017/07/03/shedding-light-on-the-black-box-of-inappropriateness/) (Cheryl Yeoh Sew Hoy)
