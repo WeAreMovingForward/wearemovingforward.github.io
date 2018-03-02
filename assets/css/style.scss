@@ -2,3 +2,37 @@
 ---
 
 @import 'jekyll-theme-cayman';
+
+.main-content table {
+  border-radius: 5px;
+
+  th {
+    background: #F6F8FA;
+    font-weight: normal;
+  }
+
+  tr {
+    &:nth-child(even) {
+      background: #F6F8FA;
+    }
+    &:nth-child(odd) {
+      background: #FFFFFF;
+    }
+    td, th {
+      &:first-child {
+        font-weight: bold;
+      }
+    }
+  }
+
+  td, th {
+    font-size: 0.8em;
+    text-align: left;
+    border: none;
+  }
+}
+
+ul li {
+  margin-top: 1em;
+  line-height: 1.5em;
+}
