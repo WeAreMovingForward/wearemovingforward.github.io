@@ -10,7 +10,7 @@ In 2017, a wave of sexual harassment and discrimination experiences were bravely
 
 Our mission is to highlight the steps VCs have taken to nurture a diverse, inclusive, and harassment-free workplace and provide entrepreneurs with a point-of-contact for reporting issues and raising questions going forward. This will occur in three phases:
 
-1. **Starting the conversation.**VCs in this wiki are publicly establishing their commitment to progress by sharing their current-day policies, issuing their statements, and providing a point-of-contact for entrepreneurs to report issues.
+1. **Starting the conversation.** The VCs in this wiki are publicly establishing their commitment to progress by sharing their current-day policies, issuing their statements, and providing a point-of-contact for entrepreneurs to report issues.
 
 2. **Building, testing, and adapting.** We value progress, not perfection. The first version is rarely the best. VCs, entrepreneurs, and the community will work together to evaluate these policies to highlight firms who are going above-and-above and identify areas for improvement. 
 
