@@ -10,11 +10,11 @@ In 2017, a wave of sexual harassment and discrimination experiences were bravely
 
 Our mission is to highlight the steps VCs have taken to nurture a diverse, inclusive, and harassment-free workplace and provide entrepreneurs with a point-of-contact for reporting issues and raising questions going forward. This will occur in three phases:
 
-**1. Committing to start a conversation.** VCs in this wiki are publicly establishing their commitment to start by sharing their current-day policies, issuing their statements, and providing a point-of-contact for entrepreneurs to report issues.
+1. **Starting the conversation.**VCs in this wiki are publicly establishing their commitment to progress by sharing their current-day policies, issuing their statements, and providing a point-of-contact for entrepreneurs to report issues.
 
-**2. Building, testing, and adapting.** We value progress, not perfection. The first version is rarely the best version. VCs, entrepreneurs, and the community are working together to evaluate these policies to highlight firms who are going above-and-above and identify areas for improvement. 
+2. **Building, testing, and adapting.** We value progress, not perfection. The first version is rarely the best. VCs, entrepreneurs, and the community will work together to evaluate these policies to highlight firms who are going above-and-above and identify areas for improvement. 
 
-**3. Bringing the community together.** We will share our learnings and engage our broader community (e.g., later in Summer 2018 we are planning on adding LPs to this effort).
+3. **Bringing the community together.** We will share our learnings and engage our broader community in forward progress (e.g., later in Summer 2018 we are planning on adding LPs to this effort).
 
 This wiki is a self-managed GitHub repository to which any firm can add their policies. And it is our hope that every major player in the venture ecosystem will add theirs as well.
 
