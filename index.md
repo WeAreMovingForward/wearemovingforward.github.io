@@ -59,7 +59,7 @@ We’re also in favor of having an internal point-of-contact contact who can ans
 **3. Provide a universal, open-source, and evolving wiki for continuous updates.** As policies and supporting strategies evolve and the industry continues to iterate, we want to provide an open forum for any firm to self-report their efforts. We’ve hosting [this directory on GitHub](https://github.com/WeAreMovingForward/wearemovingforward.github.io).
 
 
-# [](#next-steps)Next Steps
+# [](#next-steps)How can you support the #MovingForward project?
 
 **Learn more and educate your firm**. 
 
