@@ -18,10 +18,6 @@ Our mission is to highlight the steps VCs have taken to nurture a diverse, inclu
 
 This wiki is a self-managed GitHub repository to which any firm can add their policies. And it is our hope that every major player in the venture ecosystem will add theirs as well.
 
-=> _If you’re a venture firm,_ fill out [our Google Survey](https://goo.gl/forms/Bh5nZZbjiet5CJV23) or [submit a pull request](https://github.com/WeAreMovingForward/wearemovingforward.github.io/compare?expand=1) to share your efforts to nurture a diverse, inclusive, and harassment-free workplace.
-
-=> _If you’re an entrepreneur_ and you don’t see your investor on this list, share this project with them.
-
 
 # [](#vcs-moving-forward)VCs Moving Forward
 _Firms listed in alphabetical order_
@@ -32,6 +28,10 @@ _Firms listed in alphabetical order_
 | X | X | X | X | X |
 | X | X | X | X | X |
 | X | X | X | X | X |
+
+=> _If you’re a venture firm,_ fill out [our Google Survey](https://goo.gl/forms/Bh5nZZbjiet5CJV23) or [submit a pull request](https://github.com/WeAreMovingForward/wearemovingforward.github.io/compare?expand=1) to share your efforts to nurture a diverse, inclusive, and harassment-free workplace.
+
+=> _If you’re an entrepreneur_ and you don’t see your investor on this list, share this project with them.
 
 # [](#lp-signatories)LP Signatories
 
