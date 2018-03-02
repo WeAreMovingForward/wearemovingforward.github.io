@@ -807,3 +807,23 @@ a {
 
 .site-footer-credits {
   color: #819198; }
+
+.main-content table {
+  border-radius: 5px; }
+  .main-content table th {
+    background: #F6F8FA;
+    font-weight: normal; }
+  .main-content table tr:nth-child(even) {
+    background: #F6F8FA; }
+  .main-content table tr:nth-child(odd) {
+    background: #FFFFFF; }
+  .main-content table tr td:first-child, .main-content table tr th:first-child {
+    font-weight: bold; }
+  .main-content table td, .main-content table th {
+    font-size: 0.8em;
+    text-align: left;
+    border: none; }
+
+ul li {
+  margin-top: 1em;
+  line-height: 1.5em; }
