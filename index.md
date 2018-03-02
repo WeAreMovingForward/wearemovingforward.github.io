@@ -26,12 +26,12 @@ This wiki is a self-managed GitHub repository to which any firm can add their po
 # [](#vcs-moving-forward)VCs Moving Forward
 _Firms listed in alphabetical order_
 
-| Organization | Do you have an internal, external policy or both? (public links preferred) | How we are moving forward (<100 word statement; public links/references preferred) | Firm point-of-contact for entrepreneur to report harassment issues (including contact type i.e. “third party”) |
-|---|---|---|---|
-| To be published on March 8, [International Women's Day](https://www.internationalwomensday.com/) | X | X | X |
-| X | X | X | X |
-| X | X | X | X |
-| X | X | X | X |
+| Organization | **Do you have an internal, external policy or both?** (public links preferred) | **How we are moving forward** in the wake of #MeToo (<100 word statement; public links/references preferred) | **Firm point-of-contact for entrepreneur to _report_ harassment or discrimination issues** (including contact type i.e. “third party”) | **Firm point-of-contact for diversity, inclusion and harassment questions** |
+|---|---|---|---|---|
+| To be published on March 8, [International Women's Day](https://www.internationalwomensday.com/) | X | X | X | X |
+| X | X | X | X | X |
+| X | X | X | X | X |
+| X | X | X | X | X |
 
 # [](#lp-signatories)LP Signatories
 
