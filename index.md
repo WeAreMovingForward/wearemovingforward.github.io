@@ -10,7 +10,7 @@ In 2017, a wave of sexual harassment and discrimination experiences were bravely
 
 Our mission is to highlight the steps VCs have taken to nurture a diverse, inclusive, and harassment-free workplace and provide entrepreneurs with a point-of-contact for reporting issues and raising questions going forward. This will occur in three phases:
 
-1. **Starting the conversation.** The VCs in this wiki are publicly establishing their commitment to progress by sharing their current-day policies, issuing their statements, and providing a point-of-contact for entrepreneurs to report issues.
+1. **Starting the conversation.** VCs in this wiki are publicly establishing their commitment to progress by sharing their current-day policies, issuing their statements, and providing a point-of-contact for entrepreneurs to report issues.
 
 2. **Building, testing, and adapting.** We value progress, not perfection. The first version is rarely the best. VCs, entrepreneurs, and the community will work together to evaluate these policies to highlight firms who are going above-and-above and identify areas for improvement.
 
@@ -32,6 +32,19 @@ _Firms listed in alphabetical order_
 | X | X | X | X |
 | X | X | X | X |
 | X | X | X | X |
+
+# [](#lp-signatories)LP Signatories
+
+As LPs, we we support this movement and review the updated wiki before allocating capital.
+
+| Organization | Point-of-Contact |
+|---|---|---|---|
+| To be published in Summer 2018 | X | 
+| X | X |
+| X | X | 
+| X | X |
+
+If you’re an LP who would like to support this project, please email us at hello@venturemovingforward.org.
 
 # [](#why-are-we-doing-this)Why are we doing this?
 
@@ -83,8 +96,10 @@ _Organizations, platforms, and tools:_
 If your organization is working on any tools or services for VCs shifting the diversity, inclusion and anti-harassment paradigm and would like to be included on this list, please email us at hello@venturemovingforward.org or [submit a pull request](https://github.com/WeAreMovingForward/wearemovingforward.github.io/compare?expand=1) on GitHub.
 
 **Continue to share your progress**.
-* **March 8, 2018** is our first launch where VCs are committing to start a conversation. Are you working on something you’d like to share with the community? Please fill out [our Google Survey](https://goo.gl/forms/Bh5nZZbjiet5CJV23) or [submit a pull request](https://github.com/WeAreMovingForward/wearemovingforward.github.io/compare?expand=1) to share your methods to tackle harassment and discrimination in the workplace. We’ll continue to update the wiki.
+* **March 8, 2018** is our first launch where VCs are committing to start a conversation. 
 * **April 8, 2018** is a second-wave deadline for VCs who support this project and need more time to get their policies, statements, and points-of-contact together.
 * Over this **Summer 2018**, we are planning to add “LP Signatories” to the wiki. If you’re an LP who would like to support this project, please email us at hello@venturemovingforward.org.
+
+Are you working on something you’d like to share with the community? Please fill out [our Google Survey](https://goo.gl/forms/Bh5nZZbjiet5CJV23) or [submit a pull request](https://github.com/WeAreMovingForward/wearemovingforward.github.io/compare?expand=1) to share your methods to tackle harassment and discrimination in the workplace. We’ll continue to update the wiki.
 
 Thank you for sparking positive change in our industry and for supporting the open-source Project #MovingForward.
