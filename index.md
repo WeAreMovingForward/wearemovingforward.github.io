@@ -5,7 +5,7 @@ layout: default
 
 # [](#inspiration) What inspired this project?
 
-This project started by a small group of entrepreneurs who wanted answers to the following questions: _“If you experienced harassment or discrimination, (1) how would you know if it’s worth addressing (2) where would you report it? (3) will I be protected against retaliation?”_
+At a dinner for entrepreneurs one evening, one of the founders asked: _“If I experienced harassment or discrimination, how would I know if it’s worth addressing? Where would I report it and how can I be protected against retaliation?”_
 
 Over the following months, we asked our friends in VC if they had external anti-harassment/ discrimination policies and a reporting channel, and we discovered that many did not. 
 
