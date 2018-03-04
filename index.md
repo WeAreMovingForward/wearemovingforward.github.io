@@ -3,24 +3,31 @@ layout: default
 ---
 
 
-# [](#inspiration) What inspired this project?
+_“As an entrepreneur, if I experience harassment or discrimination, where do I report it and how will I be protected?”_
 
-At a dinner for entrepreneurs one evening, one of the founders asked: _“If I experienced harassment or discrimination, how would I know if it’s worth addressing? Where would I report it and how can I be protected against retaliation?”_
+This question emerged at a founders dinner a few months ago. None of us had a good answer, so, true to form, we started brainstorming. We asked our friends in VC if they had external anti-harassment/discrimination policies and/or a reporting channel.
 
-Over the following months, we asked our friends in VC if they had external anti-harassment/ discrimination policies and a reporting channel, and we discovered that many did not. 
+In opening the conversation, we learned that the issue was already top of mind for many VCs. But it was hard to see what individual firms were doing from the outside. So #MovingForward was born.
 
-During our conversations, we also discovered that although this issue was top of mind for VCs, it was hard to find out what individual firms were doing. We created #MovingForward to set a baseline, to spark conversations within VC firms, and to learn from one another. 
 
-VCs in this wiki are publicly establishing their commitment to progress by sharing their current-day anti-harassment/discrimination policies, issuing a 100-word statement on how they moving forward in the wake of #MeToo, and providing a point-of-contact for entrepreneurs to report harassment and discrimination issues.
+# [](#what-is-mf) What is #MovingForward?
 
-# [](#motivation) What's in it for you?
-* _Value for Firms_: We’ve heard from VCs that the process of writing up external HR policies and a statement in the wake of #MeToo has sparked thoughtful conversations, codified ideas, and aligned the partnership. This wiki can serve as an inspiration to firms striving to nurture diverse, inclusive and harassment-free workplaces. 
-* _Value for Founders_: Over time, we strive to build this into a resource where you can review policies, find initiatives that support you, and a reporting contact. 
+ #MovingForward is an open source wiki that pools diversity, inclusion, and anti-harassment commitments from top VCs.
 
-This wiki is a self-managed GitHub repository to which any firm can add and update their policies, initiatives, and reporting lines. **And it is our hope that every major player in the venture ecosystem will add theirs as well.**
+Supporting VCs have established their commitment to move forward by sharing their _current_ progress in the wake of the discrimination and harassment experiences bravely shared in the past year. Specifically, our supporters have provided:
+* Anti-harassment/discrimination policies
+* A point-of-contact for entrepreneurs to report harassment and discrimination issues
+* A 100-word statement on their work to nurture diverse, inclusive and harassment-free workplaces
+
+This wiki is open-source to which any firm can add and update their policies, initiatives, and reporting lines. **And it is our hope that every major player in the venture ecosystem will add theirs as well.**
+
+
+# [](#why-mf) Why #Moving Forward
+
+* **Value for Firms**: VCs say the process of officializing policies and drafting statements has sparked conversations and aligned the firm’s Partnership internally. We hope this wiki will further motivate that process.  
+* **Value for Founders**: #MovingForward strives to make it easier for founders to review policies, find supportive investors, and report if something goes awry. 
 
 This wiki is a living document, and we value progress, not perfection
-
 
 
 # [](#vcs-moving-forward)VCs Moving Forward
