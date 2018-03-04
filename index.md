@@ -5,14 +5,14 @@ layout: default
 
 _“As an entrepreneur, if I experience harassment or discrimination, where do I report it and how will I be protected?”_
 
-This question emerged at a founders dinner a few months ago. None of us had a good answer, so, true to form, we started brainstorming. We asked our friends in VC if they had external anti-harassment/discrimination policies and/or a reporting channel.
+This question emerged at a founders dinner a few months ago. None of us had a good answer, so, true to form, we started brainstorming. We asked our friends in VC if they had external anti-harassment/ discrimination policies and/or a reporting channel.
 
 In opening the conversation, we learned that the issue was already top of mind for many VCs. But it was hard to see what individual firms were doing from the outside. So #MovingForward was born.
 
 
 # [](#what-is-mf) What is #MovingForward?
 
- #MovingForward is an open source wiki that pools diversity, inclusion, and anti-harassment commitments from top VCs.
+**#MovingForward is an open source wiki that pools diversity, inclusion, and anti-harassment commitments from top VCs.**
 
 Supporting VCs have established their commitment to move forward by sharing their _current_ progress in the wake of the discrimination and harassment experiences bravely shared in the past year. Specifically, our supporters have provided:
 * Anti-harassment/discrimination policies
