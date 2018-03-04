@@ -44,19 +44,6 @@ _Firms listed in alphabetical order_
 
 => _If you’re an entrepreneur_ and you don’t see your investor on this list, share this project with them.
 
-# [](#lp-signatories)LP Signatories
-
-As LPs, we we support this movement and review the updated wiki before allocating capital.
-
-| Organization | Point-of-Contact |
-|---|---|---|---|
-| To be published in Summer 2018 | X | 
-| X | X |
-| X | X | 
-| X | X |
-
-If you’re an LP who would like to support this project, please email us at hello@venturemovingforward.org.
-
 # [](#why-are-we-doing-this)But really, why are you doing this?
 
 
