@@ -12,14 +12,13 @@ In opening the conversation, we learned that the issue was already top of mind f
 
 # [](#what-is-mf) What is #MovingForward?
 
-**#MovingForward is an open source wiki that pools diversity, inclusion, and anti-harassment commitments from top VCs.**
-
-Supporting VCs have established their commitment to move forward by sharing their _current_ progress in the wake of the discrimination and harassment experiences bravely shared in the past year. Specifically, our supporters have provided:
+**#MovingForward is an open-source directory that pools diversity, inclusion, and anti-harassment commitments from VCs.**
+Supporting VCs have established their commitment to move forward by sharing their current progress in the wake of the discrimination and harassment experiences bravely shared in the past year. Specifically, our supporters have provided:
 * Anti-harassment/discrimination policies
 * A point-of-contact for entrepreneurs to report harassment and discrimination issues
 * A 100-word statement on their work to nurture diverse, inclusive and harassment-free workplaces
 
-This wiki is open-source to which any firm can add and update their policies, initiatives, and reporting lines. **And it is our hope that every major player in the venture ecosystem will add theirs as well.**
+This directory is open-source to which any firm can add and update their policies and points of contact. **It is our hope that every major players in venture ecosystem will participate.**
 
 
 # [](#why-mf) Why #Moving Forward
@@ -30,7 +29,7 @@ This wiki is open-source to which any firm can add and update their policies, in
 This is a living document, and we value progress, not perfection.
 
 
-# [](#vcs-moving-forward)VCs starting the #MovingFoward dialog
+# [](#vcs-moving-forward)VCs #MovingFoward
 _Firms listed in alphabetical order_
 
 | Organization | **Do you have an external policy?** (public links preferred) | **How we are moving forward** to support a more diverse, inclusive and harassment-free workplace (<100 word statement; public links/references preferred) | **Firm point-of-contact for entrepreneur to _report_ harassment or discrimination issues** (including contact type i.e. “third party”) | **Firm point-of-contact for diversity, inclusion and harassment questions** |
@@ -40,7 +39,7 @@ _Firms listed in alphabetical order_
 | X | X | X | X | X |
 | X | X | X | X | X |
 
-### [](#vcs-pledging)As #MovingForward supporters, we pledge to publish our statement, external policy, and points-of-contact 
+### [](#vcs-pledging)As #MovingForward supporters, we pledge to share our statement, external policy, and points-of-contact 
 
 | Organization | Logo | 
 |---|---|---|---|---|
