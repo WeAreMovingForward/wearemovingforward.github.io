@@ -24,27 +24,37 @@ This wiki is open-source to which any firm can add and update their policies, in
 
 # [](#why-mf) Why #Moving Forward
 
-* **Value for Firms**: VCs say the process of officializing policies and drafting statements has sparked conversations and aligned the firm’s Partnership internally. We hope this wiki will further motivate that process.  
-* **Value for Founders**: #MovingForward strives to make it easier for founders to review policies, find supportive investors, and report if something goes awry. 
+* **Value for Firms**: VCs say the process of making their policies public and establishing reporting lines has sparked conversations and aligned the firm’s partnership internally around this matter. We hope this movement further motivates that process.  
+* **Value for Founders**: #MovingForward strives to make it easier for founders to review policies, find supportive investors, and identify a reporting contact. If you don’t see your investors here, share this project with them. 
 
-This wiki is a living document, and we value progress, not perfection
+This is a living document, and we value progress, not perfection.
 
 
-# [](#vcs-moving-forward)VCs Moving Forward
+# [](#vcs-moving-forward)VCs starting the #MovingFoward dialog
 _Firms listed in alphabetical order_
 
-| Organization | **Do you have an internal, external policy or both?** (public links preferred) | **How we are moving forward** in the wake of #MeToo (<100 word statement; public links/references preferred) | **Firm point-of-contact for entrepreneur to _report_ harassment or discrimination issues** (including contact type i.e. “third party”) | **Firm point-of-contact for diversity, inclusion and harassment questions** |
+| Organization | **Do you have an external policy?** (public links preferred) | **How we are moving forward** to support a more diverse, inclusive and harassment-free workplace (<100 word statement; public links/references preferred) | **Firm point-of-contact for entrepreneur to _report_ harassment or discrimination issues** (including contact type i.e. “third party”) | **Firm point-of-contact for diversity, inclusion and harassment questions** |
 |---|---|---|---|---|
 | To be published on March 8, [International Women's Day](https://www.internationalwomensday.com/) | X | X | X | X |
 | X | X | X | X | X |
 | X | X | X | X | X |
 | X | X | X | X | X |
 
-=> _If you’re a venture firm,_ fill out [our Google Survey](https://goo.gl/forms/Bh5nZZbjiet5CJV23) or [submit a pull request](https://github.com/WeAreMovingForward/wearemovingforward.github.io/compare?expand=1) to share your efforts to nurture a diverse, inclusive, and harassment-free workplace. Not sure where to start? Check out resources. 
+### [](#vcs-pledging)As #MovingForward supporters, we pledge to publish our statement, external policy, and points-of-contact 
 
-=> _If you’re an entrepreneur_ and you don’t see your investor on this list, share this project with them.
+| Organization | Logo | 
+|---|---|---|---|---|
+| To be published on March 8, [International Women's Day](https://www.internationalwomensday.com/) | X | 
+| X | X |
+| X | X |
+| X | X |
 
-# [](#why-are-we-doing-this)But really, why are you doing this?
+Are you a VC? [Join #MovingForward](https://airtable.com/shrudsWooa1wa7sCm).
+Not sure where to start? Check out resources. 
+
+_If you’re an entrepreneur and you don’t see your investor on this list, share this project with them._
+
+## [](#why-are-we-doing-this)More details, why are you doing this?
 
 
 A small group of entrepreneurs came together with three goals for this project.
@@ -83,19 +93,23 @@ _Organizations, platforms, and tools:_
 * [Parity.org](https://www.parity.org/), an organization that encourages corporations to commit to interviewing at least one qualified woman for all open roles at the VP level and above.
 * _More coming soon._  A number of organizations have informed us of initiatives that will launch in the next few months.
 
-If your organization is working on any tools or services for VCs shifting the diversity, inclusion and anti-harassment paradigm and would like to be included on this list, please email us at hello@venturemovingforward.org or [submit a pull request](https://github.com/WeAreMovingForward/wearemovingforward.github.io/compare?expand=1) on GitHub.
+If your organization is working on any tools or services for VCs shifting the diversity, inclusion and anti-harassment paradigm and would like to be included on this list, please email us at hello@venturemovingforward.org.
 
 **Continue to share your progress**.
-* **March 8, 2018** is our first launch where VCs are committing to start a conversation. 
-* **April 8, 2018** is a second-wave deadline for VCs who support this project and need more time to get their policies, statements, and points-of-contact together.
-* Over this **Summer 2018**, we are planning to add “LP Signatories” to the wiki. If you’re an LP who would like to support this project, please email us at hello@venturemovingforward.org.
+* On March 8, 2018, [XX] firms made a public commitment to nurture diverse, inclusive and harassment-free workplaces. 
+* **We’re inviting additional VCs to commit to share** their policies, statements, and points-of-contact. 
+* If you’re a founder, and your investor isn’t on here yet, please share the #MovingForward project with them.
 
-Are you working on something you’d like to share with the community? Please fill out [our Google Survey](https://goo.gl/forms/Bh5nZZbjiet5CJV23) or [submit a pull request](https://github.com/WeAreMovingForward/wearemovingforward.github.io/compare?expand=1) to share your methods to tackle harassment and discrimination in the workplace. We’ll continue to update the wiki.
+
+Are you a VC? [Join #MovingForward](https://airtable.com/shrudsWooa1wa7sCm).
+Not sure where to start? Check out resources. 
 
 # [](#news)Community Writing
 * [Insert community blog posts here as they launch + articles]
 
-# [](#partners)Wiki built in partnership with...
+### [](#partners)This open-source directory was built in collaboration with the VCs listed above and … 
 [LOGOS]
 
-Thank you all the entrepreneurs, VCs and larger community for sparking positive change in our industry. 2017 was a period of sharing, listening and processing. 2018 is the time for action and #MovingForward.
+_Thank you to of all the entrepreneurs, VCs and larger community for sparking positive change in our industry._
+
+_2017 was a period of sharing, listening and processing. 2018 is the time for action and *#MovingForward.*_
