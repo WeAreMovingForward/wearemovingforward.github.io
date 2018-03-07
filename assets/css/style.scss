@@ -41,4 +41,23 @@ ul li {
   img {
     vertical-align: middle;
   }
+  @media screen and (min-width: #{$large-breakpoint}) {
+    img {
+        max-width: 55%;
+    }
+  }
+
+  @media screen and (min-width: #{$medium-breakpoint}) and (max-width: #{$large-breakpoint}) {
+    img {
+        max-width: 40%;
+    }
+  }
+
+  @media screen and (max-width: #{$medium-breakpoint}) {
+    img {
+        display: block;
+        margin: auto;
+        max-width: 66%;
+    }
+  }
 }
