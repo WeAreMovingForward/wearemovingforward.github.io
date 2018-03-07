@@ -9,7 +9,10 @@
 /test/tmp/
 /test/version_tmp/
 /tmp/
-.sass-cache/*
+_site/
+.sass-cache/
+.jekyll-metadata
+
 
 # Used by dotenv library to load environment variables.
 # .env
