@@ -19,11 +19,9 @@ Specifically, our supporters have provided:
 
 **This directory is open-source.** Any firm can add and update their policies and point(s)-of-contact, and we hope that every major venture firm will participate.
 
-<div align="center">
-<button>
-<a href="https://airtable.com/shrudsWooa1wa7sCm">Join #MovingForward</a>
-</button>
-</div>
+<p style="text-align:center">
+  <a href="https://airtable.com/shrudsWooa1wa7sCm" class="btn btn-dark">Join #MovingForward</a>
+</p>
 
 ## [](#vcs-mf) VCs #MovingForward
 _This is a living document, and we value progress, not perfection._
@@ -41,11 +39,9 @@ _As supporters, we pledge to share our statement, external policy, and point(s)-
 + We’re inviting additional VCs to commit to [share](https://airtable.com/shrudsWooa1wa7sCm) their policies, statements, and points-of-contact.
 + If you’re a founder, and your investor isn’t on here yet, please share the #MovingForward project with them.
 
-<div align="center">
-<button>
-<a href="https://airtable.com/shrudsWooa1wa7sCm">Join #MovingForward</a>
-</button>
-</div>
+<p style="text-align:center">
+  <a href="https://airtable.com/shrudsWooa1wa7sCm" class="btn btn-dark">Join #MovingForward</a>
+</p>
 
 Not sure where to start? Check out [our resources](#resources).
 
