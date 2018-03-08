@@ -90,9 +90,33 @@ _For those thinking: “We don’t have anything yet, where do we start?”_
 
 If your organization is working on any tools or services for VCs shifting the diversity, inclusion, and anti-harassment paradigm and would like to be included on this list, please email us at _hello@venturemovingforward.org_.
 
+# [](#press)Press
+<div class="press-logos-container">
+ <a href="https://www.recode.net/2018/3/8/17094632/venture-capital-sexual-harassment-policies-moving-forward-directory" class="press-logo-link">
+        <img src="/assets/img/thirdparty/recode-logo.svg" alt="Recode logo" class="press-logo"/>
+  </a>
+<a href="http://money.cnn.com/2018/03/08/technology/movingforward-tech-vc-harassment/index.html" class="press-logo-link">
+  <img src="/assets/img/thirdparty/cnn-logo.svg" alt="CNN logo" class="press-logo"/>
+</a>
+</div>
+
+
+**CNN** - ["She spoke out about harassment in tech. Now, she's helping VCs 'move forward'"](http://money.cnn.com/2018/03/08/technology/movingforward-tech-vc-harassment/index.html) (March 8, 2018)
+
+**Recode** - ["Some venture capital firms are publicizing their sexual harassment policies for the first time"](https://www.recode.net/2018/3/8/17094632/venture-capital-sexual-harassment-policies-moving-forward-directory) (March 8, 2018)
+
+[comment]: #      <a href="" class="press-logo-link">
+[comment]: #         <img src="/assets/img/thirdparty/pando-logo.png" alt="Pando logo" class="press-logo"/>
+[comment]: #      </a>
+
 ## [](#news)From Our Supporters
 * Homebrew Blog - ["Human Resources Policy at Startups"](https://homebrewvc.tumblr.com/post/171529097583/human-resources-policy-at-startups) (March 4, 2018)
 * First Round Capital - ["Questions we get all the time"](http://firstround.com/faq/?question=1164) (March 8, 2018)
+* Mark Suster - ["The VC Inclusion Clause #MovingForward"](https://bothsidesofthetable.com/the-vc-inclusion-clause-movingforward-c5e21e61820) (March 8, 2018)
+* Brad Feld - ["International Women’s Day #StartWithEight #MovingForward"](https://www.feld.com/archives/2018/03/international-womens-day-startwitheight-movingforward.html) (March 8, 2018)
+* 500 Startups - ["500’s Commitment to #MovingForward"](https://500.co/500s-commitment-movingforward/) (March 8, 2018)
+* True Ventures - ["3 Women Founders Share Career Obstacles They Overcame"](https://trueventures.com/international-womens-day/) (March 8, 2018)
+* Bowery Capital - ["Announcing Our Involvement In Project #MovingForward"](http://bowerycap.com/blog/insights/project-movingforward/) (March 8, 2018)
 
 
 ### [](#partners)This open-source directory was built in collaboration with the VCs listed above and …
@@ -102,19 +126,6 @@ If your organization is working on any tools or services for VCs shifting the di
      <img src="/assets/img/thirdparty/projectinclude-logo.png" alt="Project Include logo" class="partner-logo" />
 </div>
 
-
-[comment]: # # [](#press)Press
-[comment]: # <div class="press-logos-container">
-[comment]: #      <a href="" class="press-logo-link">
-[comment]: #         <img src="/assets/img/thirdparty/recode-logo.svg" alt="Recode logo" class="press-logo"/>
-[comment]: #      </a>
-[comment]: #      <a href="" class="press-logo-link">
-[comment]: #         <img src="/assets/img/thirdparty/cnn-logo.svg" alt="CNN logo" class="press-logo"/>
-[comment]: #      </a>
-[comment]: #      <a href="" class="press-logo-link">
-[comment]: #         <img src="/assets/img/thirdparty/pando-logo.png" alt="Pando logo" class="press-logo"/>
-[comment]: #      </a>
-[comment]: # </div>
 
 
 **Thank you to all of the entrepreneurs, VCs, and larger community for sparking positive change in our industry. 2017 was a period of sharing, listening, and processing. 2018 is the time for action and #MovingForward.**
