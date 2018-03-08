@@ -88,7 +88,7 @@ _For those thinking: “We don’t have anything yet, where do we start?”_
 * [Parity.org](https://www.parity.org/), an organization that encourages corporations to commit to interviewing at least one qualified woman for all open roles at the VP level and above
 * _More coming soon._  A number of organizations have informed us of initiatives that will launch in the next few months
 
-If your organization is working on any tools or services for VCs shifting the diversity, inclusion and anti-harassment paradigm and would like to be included on this list, please email us at _hello@venturemovingforward.org_.
+If your organization is working on any tools or services for VCs shifting the diversity, inclusion, and anti-harassment paradigm and would like to be included on this list, please email us at _hello@venturemovingforward.org_.
 
 
 ### [](#partners)This open-source directory was built in collaboration with the VCs listed above and …
@@ -117,4 +117,4 @@ If your organization is working on any tools or services for VCs shifting the di
 * Homebrew Blog - ["Human Resources Policy at Startups"](https://homebrewvc.tumblr.com/post/171529097583/human-resources-policy-at-startups) (March 4, 2018)
 * First Round Capital - ["Questions we get all the time"](http://firstround.com/faq/?question=1164) (March 8, 2018)
 
-**Thank you to of all the entrepreneurs, VCs and larger community for sparking positive change in our industry. 2017 was a period of sharing, listening and processing. 2018 is the time for action and #MovingForward.**
+**Thank you to all of the entrepreneurs, VCs, and larger community for sparking positive change in our industry. 2017 was a period of sharing, listening, and processing. 2018 is the time for action and #MovingForward.**
