@@ -23,8 +23,8 @@ This directory is open-source to which any firm can add and update their policie
 
 # [](#why-mf) Why #Moving Forward
 
-* **Value for Firms**: VCs say the process of making their policies public and establishing reporting lines has sparked conversations and aligned the firm’s partnership internally around this matter. We hope this movement further motivates that process.  
-* **Value for Founders**: #MovingForward strives to make it easier for founders to review policies, find supportive investors, and identify a reporting contact. If you don’t see your investors here, share this project with them. 
+* **Value for Firms**: VCs say the process of making their policies public and establishing reporting lines has sparked conversations and aligned the firm’s partnership internally around this matter. We hope this movement further motivates that process.
+* **Value for Founders**: #MovingForward strives to make it easier for founders to review policies, find supportive investors, and identify a reporting contact. If you don’t see your investors here, share this project with them.
 
 This is a living document, and we value progress, not perfection.
 
@@ -39,17 +39,17 @@ _Firms listed in alphabetical order_
 | X | X | X | X | X |
 | X | X | X | X | X |
 
-### [](#vcs-pledging)As #MovingForward supporters, we pledge to share our statement, external policy, and points-of-contact 
+### [](#vcs-pledging)As #MovingForward supporters, we pledge to share our statement, external policy, and points-of-contact
 
-| Organization | Logo | 
+| Organization | Logo |
 |---|---|---|---|---|
-| To be published on March 8, [International Women's Day](https://www.internationalwomensday.com/) | X | 
+| To be published on March 8, [International Women's Day](https://www.internationalwomensday.com/) | X |
 | X | X |
 | X | X |
 | X | X |
 
 Are you a VC? [Join #MovingForward](https://airtable.com/shrudsWooa1wa7sCm).
-Not sure where to start? Check out resources. 
+Not sure where to start? Check out resources.
 
 _If you’re an entrepreneur and you don’t see your investor on this list, share this project with them._
 
@@ -59,7 +59,7 @@ _If you’re an entrepreneur and you don’t see your investor on this list, sha
 A small group of entrepreneurs came together with three goals for this project.
 
 **1. Launch a public, collective step forward for the venture industry.** We aim to highlight the public strategies each firm is committing to so that we can learn and move together.
-Crafting an external anti-discrimination and anti-harassment policy between the firm and entrepreneurs is just a first step. There’s much more do to, and many organizations are launching far-reaching initiatives to make holistic changes. 
+Crafting an external anti-discrimination and anti-harassment policy between the firm and entrepreneurs is just a first step. There’s much more do to, and many organizations are launching far-reaching initiatives to make holistic changes.
 
 **2. Facilitate transparent reporting channels and information routes.** Entrepreneurs facing harassment or discrimination are often unsure where to go to report, causing them to feel like there is no choice except to go public. We face a large issue of under-reporting of issues in our community, because founders don’t know where to go.
 
@@ -95,19 +95,31 @@ _Organizations, platforms, and tools:_
 If your organization is working on any tools or services for VCs shifting the diversity, inclusion and anti-harassment paradigm and would like to be included on this list, please email us at hello@venturemovingforward.org.
 
 **Continue to share your progress**.
-* On March 8, 2018, [XX] firms made a public commitment to nurture diverse, inclusive and harassment-free workplaces. 
-* **We’re inviting additional VCs to commit to share** their policies, statements, and points-of-contact. 
+* On March 8, 2018, [XX] firms made a public commitment to nurture diverse, inclusive and harassment-free workplaces.
+* **We’re inviting additional VCs to commit to share** their policies, statements, and points-of-contact.
 * If you’re a founder, and your investor isn’t on here yet, please share the #MovingForward project with them.
 
 
 Are you a VC? [Join #MovingForward](https://airtable.com/shrudsWooa1wa7sCm).
-Not sure where to start? Check out resources. 
+Not sure where to start? Check out resources.
 
 # [](#news)Community Writing
 * [Insert community blog posts here as they launch + articles]
 
-### [](#partners)This open-source directory was built in collaboration with the VCs listed above and … 
-[LOGOS]
+### [](#partners)This open-source directory was built in collaboration with the VCs listed above and …
+
+[comment]: # # [](#press)Press
+[comment]: # <div class="press-logos-container">
+[comment]: #      <a href="" class="press-logo-link">
+[comment]: #         <img src="/assets/img/thirdparty/recode-logo.svg" alt="Recode logo" class="press-logo"/>
+[comment]: #      </a>
+[comment]: #      <a href="" class="press-logo-link">
+[comment]: #         <img src="/assets/img/thirdparty/cnn-logo.svg" alt="CNN logo" class="press-logo"/>
+[comment]: #      </a>
+[comment]: #      <a href="" class="press-logo-link">
+[comment]: #         <img src="/assets/img/thirdparty/pando-logo.png" alt="Pando logo" class="press-logo"/>
+[comment]: #      </a>
+[comment]: # </div>
 
 _Thank you to of all the entrepreneurs, VCs and larger community for sparking positive change in our industry._
 
