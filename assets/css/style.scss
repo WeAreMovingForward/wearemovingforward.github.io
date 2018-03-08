@@ -75,6 +75,31 @@
     }
   }
 
+  div.partner-logos-container {
+    display: flex;
+    justify-content: space-around;
+
+    .partner-logo {
+      align-self: center;
+    }
+
+    img.partner-logo {
+      @include small {
+        width: 200px;
+      }
+
+      @include medium {
+        width: 300px;
+      }
+
+      @include large {
+        width: 300px;
+      }
+    }
+
+
+  }
+
   div.press-logos-container {
     display: flex;
     justify-content: space-around;

@@ -103,10 +103,16 @@ If your organization is working on any tools or services for VCs shifting the di
 Are you a VC? [Join #MovingForward](https://airtable.com/shrudsWooa1wa7sCm).
 Not sure where to start? Check out resources.
 
+### [](#partners)This open-source directory was built in collaboration with the VCs listed above and …
+
+<div class="partner-logos-container">
+     <img src="/assets/img/black-movingforward-logo.png" alt="MovingForward logo" class="partner-logo" />
+     <img src="/assets/img/thirdparty/projectinclude-logo.png" alt="Project Include logo" class="partner-logo" />
+</div>
+
 # [](#news)Community Writing
 * [Insert community blog posts here as they launch + articles]
 
-### [](#partners)This open-source directory was built in collaboration with the VCs listed above and …
 
 [comment]: # # [](#press)Press
 [comment]: # <div class="press-logos-container">
