@@ -28,6 +28,7 @@ Specifically, our supporters have provided:
 # [](#vcs-mf) VCs #MovingForward
 _This is a living document, and we value progress, not perfection._
 
+
 INSERT SUPPORTER AIRTABLE
 
 ### As supporters, we pledge to share our statement, external policy, and point(s)-of-contact with #MovingForward soon. 
@@ -51,7 +52,6 @@ Not sure where to start? Check out our resources.
 # Why #MovingForward
 + **Value for Firms:** VCs say the process of making their policies public and establishing reporting lines has sparked conversations and aligned the firm’s partnership internally around this matter. We hope this movement further motivates that process.
 + **Value for Founders:** #MovingForward strives to make it easier for founders to review policies, find supportive investors, and identify a reporting contact. If you don’t see your investors here, share this project with them.
-
 
 ## But really, why are you doing this?
 
@@ -94,8 +94,29 @@ If your organization is working on any tools or services for VCs shifting the di
 [//]: <> (# [](#news)From Our Supporters)
 [//]: <> (Insert blog posts here)
 
-### [](#partners)This open-source directory was built in collaboration with the VCs listed above and … 
+### [](#partners)This open-source directory was built in collaboration with the VCs listed above and …
 
+<div class="partner-logos-container">
+     <img src="/assets/img/black-movingforward-logo.png" alt="MovingForward logo" class="partner-logo" />
+     <img src="/assets/img/thirdparty/projectinclude-logo.png" alt="Project Include logo" class="partner-logo" />
+</div>
+
+# [](#news)Community Writing
+* [Insert community blog posts here as they launch + articles]
+
+
+[comment]: # # [](#press)Press
+[comment]: # <div class="press-logos-container">
+[comment]: #      <a href="" class="press-logo-link">
+[comment]: #         <img src="/assets/img/thirdparty/recode-logo.svg" alt="Recode logo" class="press-logo"/>
+[comment]: #      </a>
+[comment]: #      <a href="" class="press-logo-link">
+[comment]: #         <img src="/assets/img/thirdparty/cnn-logo.svg" alt="CNN logo" class="press-logo"/>
+[comment]: #      </a>
+[comment]: #      <a href="" class="press-logo-link">
+[comment]: #         <img src="/assets/img/thirdparty/pando-logo.png" alt="Pando logo" class="press-logo"/>
+[comment]: #      </a>
+[comment]: # </div>
 
 _Thank you to of all the entrepreneurs, VCs and larger community for sparking positive change in our industry._
 

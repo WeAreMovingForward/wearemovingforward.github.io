@@ -45,34 +45,84 @@
   }
 }
 
+.main-content {
+  table {
+    border-radius: 5px;
 
-.main-content table {
-  border-radius: 5px;
+    th {
+      background: #F6F8FA;
+      font-weight: normal;
+    }
 
-  th {
-    background: #F6F8FA;
-    font-weight: normal;
+    tr {
+      &:nth-child(even) {
+        background: #F6F8FA;
+      }
+      &:nth-child(odd) {
+        background: #FFFFFF;
+      }
+      td, th {
+        &:first-child {
+          font-weight: bold;
+        }
+      }
+    }
+
+    td, th {
+      font-size: 0.8em;
+      text-align: left;
+      border: none;
+    }
   }
 
-  tr {
-    &:nth-child(even) {
-      background: #F6F8FA;
+  div.partner-logos-container {
+    display: flex;
+    justify-content: space-around;
+
+    .partner-logo {
+      align-self: center;
     }
-    &:nth-child(odd) {
-      background: #FFFFFF;
+
+    img.partner-logo {
+      @include small {
+        width: 200px;
+      }
+
+      @include medium {
+        width: 300px;
+      }
+
+      @include large {
+        width: 300px;
+      }
     }
-    td, th {
-      &:first-child {
-        font-weight: bold;
+
+
+  }
+
+  div.press-logos-container {
+    display: flex;
+    justify-content: space-around;
+
+    .press-logo-link {
+      align-self: center;
+    }
+
+    img.press-logo {
+      @include small {
+        width: 75px;
+      }
+
+      @include medium {
+        width: 150px;
+      }
+
+      @include large {
+        width: 150px;
       }
     }
   }
 
-  td, th {
-    font-size: 0.8em;
-    text-align: left;
-    border: none;
-  }
 }
 
 ul li {
