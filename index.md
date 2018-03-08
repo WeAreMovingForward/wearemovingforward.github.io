@@ -28,12 +28,11 @@ Specifically, our supporters have provided:
 # [](#vcs-mf) VCs #MovingForward
 _This is a living document, and we value progress, not perfection._
 
-
-INSERT SUPPORTER AIRTABLE
+<iframe class="airtable-embed" src="https://airtable.com/embed/shrnSQtiGLgk3rYPh?backgroundColor=orange&viewControls=on" frameborder="0" onmousewheel="" width="100%" height="533" style="background: transparent; border: 1px solid #ccc;"></iframe>
 
 ### As supporters, we pledge to share our statement, external policy, and point(s)-of-contact with #MovingForward soon. 
 
-INSERT PLEDGE AIRTABLE
+<iframe class="airtable-embed" src="https://airtable.com/embed/shr97lXRbhMLDJl6Z?backgroundColor=orange&viewControls=on" frameborder="0" onmousewheel="" width="100%" height="533" style="background: transparent; border: 1px solid #ccc;"></iframe>
 
 ## Continue to share your progress
 
@@ -101,9 +100,6 @@ If your organization is working on any tools or services for VCs shifting the di
      <img src="/assets/img/thirdparty/projectinclude-logo.png" alt="Project Include logo" class="partner-logo" />
 </div>
 
-# [](#news)Community Writing
-* [Insert community blog posts here as they launch + articles]
-
 
 [comment]: # # [](#press)Press
 [comment]: # <div class="press-logos-container">
@@ -117,6 +113,11 @@ If your organization is working on any tools or services for VCs shifting the di
 [comment]: #         <img src="/assets/img/thirdparty/pando-logo.png" alt="Pando logo" class="press-logo"/>
 [comment]: #      </a>
 [comment]: # </div>
+
+
+### [](#news)From Our Supporters
+* Homebrew Blog - ["Human Resources Policy at Startups"](https://homebrewvc.tumblr.com/post/171529097583/human-resources-policy-at-startups) (March 4, 2018)
+* First Round Capital - ["Questions we get all the time"](http://firstround.com/faq/?question=1164) (March 8, 2018)
 
 _Thank you to of all the entrepreneurs, VCs and larger community for sparking positive change in our industry._
 
