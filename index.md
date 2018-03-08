@@ -88,12 +88,15 @@ If your organization is working on any tools or services for VCs shifting the di
 
 # [](#press)Press
 <div class="press-logos-container">
- <a href="https://www.recode.net/2018/3/8/17094632/venture-capital-sexual-harassment-policies-moving-forward-directory" class="press-logo-link">
-        <img src="/assets/img/thirdparty/recode-logo.svg" alt="Recode logo" class="press-logo"/>
+  <a href="https://www.recode.net/2018/3/8/17094632/venture-capital-sexual-harassment-policies-moving-forward-directory" class="press-logo-link">
+    <img src="/assets/img/thirdparty/recode-logo.svg" alt="Recode logo" class="press-logo"/>
   </a>
-<a href="http://money.cnn.com/2018/03/08/technology/movingforward-tech-vc-harassment/index.html" class="press-logo-link">
-  <img src="/assets/img/thirdparty/cnn-logo.svg" alt="CNN logo" class="press-logo"/>
-</a>
+  <a href="http://money.cnn.com/2018/03/08/technology/movingforward-tech-vc-harassment/index.html" class="press-logo-link">
+    <img src="/assets/img/thirdparty/cnn-logo.svg" alt="CNN logo" class="press-logo"/>
+  </a>
+  <a href="https://pando.com/2018/03/08/beyond-metoo-new-initiative-movingforward-seeks-hold-newly-shaken-silicon-valley-accountable/" class="press-logo-link">
+    <img src="/assets/img/thirdparty/pando-logo.png" alt="Pando logo" class="press-logo"/>
+  </a>
 </div>
 
 
@@ -101,9 +104,7 @@ If your organization is working on any tools or services for VCs shifting the di
 
 **Recode** - ["Some venture capital firms are publicizing their sexual harassment policies for the first time"](https://www.recode.net/2018/3/8/17094632/venture-capital-sexual-harassment-policies-moving-forward-directory) (March 8, 2018)
 
-[comment]: #      <a href="" class="press-logo-link">
-[comment]: #         <img src="/assets/img/thirdparty/pando-logo.png" alt="Pando logo" class="press-logo"/>
-[comment]: #      </a>
+**Pando** - ["Beyond #MeToo: A new initiative #MovingForward seeks to hold a newly shaken Silicon Valley accountable"](https://pando.com/2018/03/08/beyond-metoo-new-initiative-movingforward-seeks-hold-newly-shaken-silicon-valley-accountable/) (March 8, 2018)
 
 ## [](#news)From Our Supporters
 * Homebrew Blog - ["Human Resources Policy at Startups"](https://homebrewvc.tumblr.com/post/171529097583/human-resources-policy-at-startups) (March 4, 2018)
