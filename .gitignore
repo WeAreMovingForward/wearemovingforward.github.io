@@ -1,15 +1,16 @@
 *.gem
 *.rbc
+.sass-cache/*
 /.config
-/coverage/
 /InstalledFiles
+/coverage/
 /pkg/
-/spec/reports/
 /spec/examples.txt
+/spec/reports/
 /test/tmp/
 /test/version_tmp/
 /tmp/
-.sass-cache/*
+_site/
 
 # Used by dotenv library to load environment variables.
 # .env
