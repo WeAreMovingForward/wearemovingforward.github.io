@@ -37,7 +37,7 @@ _As supporters, we pledge to share our statement, external policy, and point(s)-
 
 ## Continue to share your progress
 
-+ On March 8, 2018, **41** firms made a public commitment to nurture diverse, inclusive and harassment-free workplaces. Another **16** firms pledged to make their commitment public soon.
++ On March 8, 2018, **42** firms made a public commitment to nurture diverse, inclusive and harassment-free workplaces. Another **16** firms pledged to make their commitment public soon.
 + We’re inviting additional VCs to commit to [share](https://airtable.com/shrudsWooa1wa7sCm) their policies, statements, and points-of-contact.
 + If you’re a founder, and your investor isn’t on here yet, please share the #MovingForward project with them.
 
