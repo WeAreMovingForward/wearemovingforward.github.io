@@ -117,6 +117,4 @@ If your organization is working on any tools or services for VCs shifting the di
 * Homebrew Blog - ["Human Resources Policy at Startups"](https://homebrewvc.tumblr.com/post/171529097583/human-resources-policy-at-startups) (March 4, 2018)
 * First Round Capital - ["Questions we get all the time"](http://firstround.com/faq/?question=1164) (March 8, 2018)
 
-_Thank you to of all the entrepreneurs, VCs and larger community for sparking positive change in our industry._
-
-_2017 was a period of sharing, listening and processing. 2018 is the time for action and **#MovingForward.**_
+**Thank you to of all the entrepreneurs, VCs and larger community for sparking positive change in our industry. 2017 was a period of sharing, listening and processing. 2018 is the time for action and #MovingForward.**
