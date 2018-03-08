@@ -129,3 +129,18 @@ ul li {
   margin-top: 1em;
   line-height: 1.5em;
 }
+
+.btn-dark {
+  color: white;
+  background-color: rgba(21, 153, 87, 0.7);
+  border-color: none;
+  &:hover {
+    color: white;
+    background-color: rgba(21, 153, 87, 0.8);
+    border-color: none;
+  }
+}
+
+.btn-wrapper {
+  text-align: center;
+}
