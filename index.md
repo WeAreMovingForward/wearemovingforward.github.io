@@ -10,7 +10,7 @@ This question emerged at a founders dinner a few months ago. None of us had a go
 In opening the conversation, we learned that the issue was already top of mind for many VCs. But it was hard to see what individual firms were doing from the outside. So #MovingForward was born.
 
 
-## **#MovingForward gathers VC commitments to foster a diverse, inclusive, and harassment-free workplace.**
+### **#MovingForward gathers VC commitments to foster a diverse, inclusive, and harassment-free workplace.**
 
 Specifically, our supporters have provided:
 * Their anti-harassment/discrimination policies
@@ -30,7 +30,8 @@ _This is a living document, and we value progress, not perfection._
 
 <iframe class="airtable-embed" src="https://airtable.com/embed/shrnSQtiGLgk3rYPh?backgroundColor=orange&viewControls=on" frameborder="0" onmousewheel="" width="100%" height="533" style="background: transparent; border: 1px solid #ccc;"></iframe>
 
-### As supporters, we pledge to share our statement, external policy, and point(s)-of-contact with #MovingForward soon. 
+# [](#vcs-mf) VC Pledges
+_As supporters, we pledge to share our statement, external policy, and point(s)-of-contact with #MovingForward soon._
 
 <iframe class="airtable-embed" src="https://airtable.com/embed/shr97lXRbhMLDJl6Z?backgroundColor=orange&viewControls=on" frameborder="0" onmousewheel="" width="100%" height="533" style="background: transparent; border: 1px solid #ccc;"></iframe>
 
@@ -46,13 +47,13 @@ _This is a living document, and we value progress, not perfection._
 </button>
 </div>
 
-Not sure where to start? Check out our resources.
+Not sure where to start? Check out [our resources](#resources).
 
 # Why #MovingForward
 + **Value for Firms:** VCs say the process of making their policies public and establishing reporting lines has sparked conversations and aligned the firm’s partnership internally around this matter. We hope this movement further motivates that process.
 + **Value for Founders:** #MovingForward strives to make it easier for founders to review policies, find supportive investors, and identify a reporting contact. If you don’t see your investors here, share this project with them.
 
-## But really, why are you doing this?
+### But really, why are you doing this?
 
  A small group of entrepreneurs came together with three goals:
 
@@ -90,9 +91,6 @@ _For those thinking: “We don’t have anything yet, where do we start?”_
 If your organization is working on any tools or services for VCs shifting the diversity, inclusion and anti-harassment paradigm and would like to be included on this list, please email us at _hello@venturemovingforward.org_.
 
 
-[//]: <> (# [](#news)From Our Supporters)
-[//]: <> (Insert blog posts here)
-
 ### [](#partners)This open-source directory was built in collaboration with the VCs listed above and …
 
 <div class="partner-logos-container">
@@ -115,10 +113,8 @@ If your organization is working on any tools or services for VCs shifting the di
 [comment]: # </div>
 
 
-### [](#news)From Our Supporters
+# [](#news)From Our Supporters
 * Homebrew Blog - ["Human Resources Policy at Startups"](https://homebrewvc.tumblr.com/post/171529097583/human-resources-policy-at-startups) (March 4, 2018)
 * First Round Capital - ["Questions we get all the time"](http://firstround.com/faq/?question=1164) (March 8, 2018)
 
-_Thank you to of all the entrepreneurs, VCs and larger community for sparking positive change in our industry._
-
-_2017 was a period of sharing, listening and processing. 2018 is the time for action and **#MovingForward.**_
+**Thank you to of all the entrepreneurs, VCs and larger community for sparking positive change in our industry. 2017 was a period of sharing, listening and processing. 2018 is the time for action and #MovingForward.**
