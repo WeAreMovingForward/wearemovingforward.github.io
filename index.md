@@ -106,14 +106,22 @@ If your organization is working on any tools or services for VCs shifting the di
 
 **Pando** - ["Beyond #MeToo: A new initiative #MovingForward seeks to hold a newly shaken Silicon Valley accountable"](https://pando.com/2018/03/08/beyond-metoo-new-initiative-movingforward-seeks-hold-newly-shaken-silicon-valley-accountable/) (March 8, 2018)
 
-## [](#news)From Our Supporters
+## [](#from-supporters)From Our Supporters
+* Ellen Pao / Project Include - ["#MovingForward Together"](https://medium.com/projectinclude/movingforward-together-1f19a991a68c) (March 8, 2018)
+* Cheryl (Yeoh) Sew Hoy - ["#MovingForward: Highlighting VCs Committed to Action"](https://www.linkedin.com/pulse/movingforward-highlighting-vcs-committed-action-cheryl-sew-hoy/?published=t) (March 8, 2018)
+* Mark Suster - ["The VC Inclusion Clause #MovingForward"](https://bothsidesofthetable.com/the-vc-inclusion-clause-movingforward-c5e21e61820) (March 8, 2018)
+* Aydin Senkut - ["Reflections on #MovingForward"](https://www.linkedin.com/pulse/reflections-movingforward-aydin-senkut/?trackingId=jLqKECm6f3GC980OXZ5WTQ%3D%3D) (March 8, 2018)
+* Brad Feld - ["International Women’s Day #StartWithEight #MovingForward"](https://www.feld.com/archives/2018/03/international-womens-day-startwitheight-movingforward.html) (March 8, 2018)
+
+## [](#from-vcs)From Our VCs
 * Homebrew Blog - ["Human Resources Policy at Startups"](https://homebrewvc.tumblr.com/post/171529097583/human-resources-policy-at-startups) (March 4, 2018)
 * First Round Capital - ["Questions we get all the time"](http://firstround.com/faq/?question=1164) (March 8, 2018)
-* Mark Suster - ["The VC Inclusion Clause #MovingForward"](https://bothsidesofthetable.com/the-vc-inclusion-clause-movingforward-c5e21e61820) (March 8, 2018)
-* Brad Feld - ["International Women’s Day #StartWithEight #MovingForward"](https://www.feld.com/archives/2018/03/international-womens-day-startwitheight-movingforward.html) (March 8, 2018)
 * 500 Startups - ["500’s Commitment to #MovingForward"](https://500.co/500s-commitment-movingforward/) (March 8, 2018)
 * True Ventures - ["3 Women Founders Share Career Obstacles They Overcame"](https://trueventures.com/international-womens-day/) (March 8, 2018)
 * Bowery Capital - ["Announcing Our Involvement In Project #MovingForward"](http://bowerycap.com/blog/insights/project-movingforward/) (March 8, 2018)
+* Costanoa Ventures - ["Our Berlin Wall Moment: How Venture is #MovingForward"](https://medium.com/costanoa-ventures/our-berlin-wall-moment-how-venture-is-movingforward-863aaeeef5fe) (March 8, 2018)
+* Upfront Ventures - ["Why We Have Zero Tolerance for Sexual Misconduct"](https://insights.upfront.com/why-we-have-zero-tolerance-for-sexual-misconduct-1d08432fb717) & ["Upfront VC Inclusion Clause"](https://insights.upfront.com/upfront-vc-inclusion-clause-213e708bd36) (March 8, 2018)
+* Zetta Venture Partners - ["Moving Forward Together"](https://medium.com/@Zetta/moving-forward-together-3893c41bb44a) (March 8, 2018)
 
 
 ### [](#partners)This open-source directory was built in collaboration with the VCs listed above and …
