@@ -3,6 +3,49 @@
 
 @import 'jekyll-theme-cayman';
 
+.page-header {
+  h2.project-tagline {
+    margin-top: 2rem;
+  }
+
+  @include small {
+    padding: 2.5rem 1rem;
+
+    img.logo {
+      width: 230px;
+    }
+
+    h2.project-tagline {
+      font-size: 1rem;
+    }
+  }
+
+  @include medium {
+    padding: 5rem 4rem;
+
+    img.logo {
+      width: 349px;
+    }
+
+    h2.project-tagline {
+      font-size: 1.2rem;
+    }
+  }
+
+  @include large {
+    padding: 5rem 4rem;
+
+    img.logo {
+      width: 349px;
+    }
+
+    h2.project-tagline {
+      font-size: 1.5rem;
+    }
+  }
+}
+
+
 .main-content table {
   border-radius: 5px;
 
