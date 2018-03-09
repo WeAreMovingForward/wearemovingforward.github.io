@@ -85,11 +85,15 @@
 
     img.partner-logo {
       @include small {
-        width: 200px;
+        width: 50%;
+        padding-left: 0.5rem;
+        padding-right: 0.5rem;
       }
 
       @include medium {
         width: 300px;
+        padding-left: 1rem;
+        padding-right: 1rem;
       }
 
       @include large {
