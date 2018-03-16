@@ -66,25 +66,21 @@ Not sure where to start? Check out [our resources](#resources).
 
 _For those thinking: “We don’t have anything yet, where do we start?”_
 
-**Model policies and strategies:**
-* [Resources to Help Address Sexual Harassment in Venture Ecosystem](https://nvca.org/pressreleases/nvca-unveils-resources-help-address-sexual-harassment-venture-ecosystem/) (NVCA), which includes (1) sample H.R. policies for addressing harassment & discrimination; (2) sample H.R. best practices for addressing harassment & discrimination; and (3) a sample Code of Conduct
-* [A curated directory of resources, information, and initiative by the Venture Inclusion Network](https://www.ventureinclusion.com/), which includes a list of experts and services, initiatives in the industry, sample policies, best practices and more (Venture Inclusion Network)
+**Templates and example policies:**
+* NVCA recently published [resources to help address sexual harassment in the venture ecosystem](https://nvca.org/pressreleases/nvca-unveils-resources-help-address-sexual-harassment-venture-ecosystem/), which includes (1) sample H.R. policies for addressing harassment & discrimination; (2) sample H.R. best practices for addressing harassment & discrimination; and (3) a sample code of conduct
+* [Project Include](http://projectinclude.org/), a non-profit focused on building meaningful, enduring diversity and inclusion within tech startups and as well as their broader ecosystem
+* [Venture Inclusion Network](https://www.ventureinclusion.com/) hosts a curated directory of experts and services, initiatives in the industry, sample policies, best practices and more
 * [A template for investor/founder sexual harassment policy](https://techcrunch.com/2017/07/05/harassment-policy-template/) (TechCrunch)
 * [Level classifications of harassment and assault](https://cherylyeoh.com/2017/07/03/shedding-light-on-the-black-box-of-inappropriateness/) (Cheryl Yeoh Sew Hoy)
 * [Anti-Harassment Policy Template for Startups](https://news.greylock.com/anti-harassment-policy-template-for-startups-fe24a580bddf) (Greylock Partners)
 * [Staying Safe When You Say #MeToo](https://www.aclu.org/blog/privacy-technology/internet-privacy/staying-safe-when-you-say-metoo) (ALCU)
 
-**Organizations, platforms, and tools:**
-* [Project Include](http://projectinclude.org/), a community for building meaningful, enduring diversity and inclusion into tech companies
-* [Callisto](https://www.projectcallisto.org/), an online platform that detects serial perpetrators of sexual assault and professional sexual coercion
-* [Paradigm](https://www.paradigmiq.com/), a diversity and inclusion strategy firm that partners with leading technology startups and Fortune 500 companies to build stronger, more inclusive organizations
-* [Forshay](http://forshay.com/diversity-inclusion/), a strategy firm that works with companies to design D&I strategy, deliver training, and provide consulting services
-* [Inclusion Ventures](http://inclusionventures.com/), a strategic consulting firm that provides training to help organizations and VCs take an inclusive approach to diversity and leadership
-* [FemaleFounder.org](https://www.femalefounder.org/), a community of women helping women (e.g., female founder office hours hosted across the country with top-tier female VCs)
-* [Parity.org](https://www.parity.org/), an organization that encourages corporations to commit to interviewing at least one qualified woman for all open roles at the VP level and above
-* _More coming soon._  A number of organizations have informed us of initiatives that will launch in the next few months
 
-If your organization is working on any tools or services for VCs shifting the diversity, inclusion, and anti-harassment paradigm and would like to be included on this list, please email us at _hello@venturemovingforward.org_.
+**Organizations, consultants, and tools:**
+* Check out [Venture Inclusion Network](https://www.ventureinclusion.com/experts-and-service-providers/) for a list of D&I experts, consulting firms, and service providers.
+
+* _Coming soon: We're also developing a Product Hunt Collection for tools that support diverse, inclusive, and harassment-free workplaces._
+
 
 # [](#press)Press
 <div class="press-logos-container">
@@ -107,11 +103,6 @@ If your organization is working on any tools or services for VCs shifting the di
 **Pando** - ["Beyond #MeToo: A new initiative #MovingForward seeks to hold a newly shaken Silicon Valley accountable"](https://pando.com/2018/03/08/beyond-metoo-new-initiative-movingforward-seeks-hold-newly-shaken-silicon-valley-accountable/) (March 8, 2018)
 
 ## [](#from-supporters)From Our Supporters
-* Ellen Pao / Project Include - ["#MovingForward Together"](https://medium.com/projectinclude/movingforward-together-1f19a991a68c) (March 8, 2018)
-* Cheryl (Yeoh) Sew Hoy - ["#MovingForward: Highlighting VCs Committed to Action"](https://www.linkedin.com/pulse/movingforward-highlighting-vcs-committed-action-cheryl-sew-hoy/?published=t) (March 8, 2018)
-* Mark Suster - ["The VC Inclusion Clause #MovingForward"](https://bothsidesofthetable.com/the-vc-inclusion-clause-movingforward-c5e21e61820) (March 8, 2018)
-* Aydin Senkut - ["Reflections on #MovingForward"](https://www.linkedin.com/pulse/reflections-movingforward-aydin-senkut/?trackingId=jLqKECm6f3GC980OXZ5WTQ%3D%3D) (March 8, 2018)
-* Brad Feld - ["International Women’s Day #StartWithEight #MovingForward"](https://www.feld.com/archives/2018/03/international-womens-day-startwitheight-movingforward.html) (March 8, 2018)
 * Homebrew Blog - ["Human Resources Policy at Startups"](https://homebrewvc.tumblr.com/post/171529097583/human-resources-policy-at-startups) (March 4, 2018)
 * First Round Capital - ["Questions we get all the time"](http://firstround.com/faq/?question=1164) (March 8, 2018)
 * 500 Startups - ["500’s Commitment to #MovingForward"](https://500.co/500s-commitment-movingforward/) (March 8, 2018)
@@ -120,6 +111,11 @@ If your organization is working on any tools or services for VCs shifting the di
 * Costanoa Ventures - ["Our Berlin Wall Moment: How Venture is #MovingForward"](https://medium.com/costanoa-ventures/our-berlin-wall-moment-how-venture-is-movingforward-863aaeeef5fe) (March 8, 2018)
 * Upfront Ventures - ["Why We Have Zero Tolerance for Sexual Misconduct"](https://insights.upfront.com/why-we-have-zero-tolerance-for-sexual-misconduct-1d08432fb717) & ["Upfront VC Inclusion Clause"](https://insights.upfront.com/upfront-vc-inclusion-clause-213e708bd36) (March 8, 2018)
 * Zetta Venture Partners - ["Moving Forward Together"](https://medium.com/@Zetta/moving-forward-together-3893c41bb44a) (March 8, 2018)
+* Ellen Pao / Project Include - ["#MovingForward Together"](https://medium.com/projectinclude/movingforward-together-1f19a991a68c) (March 8, 2018)
+* Cheryl (Yeoh) Sew Hoy - ["#MovingForward: Highlighting VCs Committed to Action"](https://www.linkedin.com/pulse/movingforward-highlighting-vcs-committed-action-cheryl-sew-hoy/?published=t) (March 8, 2018)
+* Mark Suster - ["The VC Inclusion Clause #MovingForward"](https://bothsidesofthetable.com/the-vc-inclusion-clause-movingforward-c5e21e61820) (March 8, 2018)
+* Aydin Senkut - ["Reflections on #MovingForward"](https://www.linkedin.com/pulse/reflections-movingforward-aydin-senkut/?trackingId=jLqKECm6f3GC980OXZ5WTQ%3D%3D) (March 8, 2018)
+* Brad Feld - ["International Women’s Day #StartWithEight #MovingForward"](https://www.feld.com/archives/2018/03/international-womens-day-startwitheight-movingforward.html) (March 8, 2018)
 
 
 ### [](#partners)This open-source directory was built in collaboration with the VCs listed above and …
@@ -131,4 +127,4 @@ If your organization is working on any tools or services for VCs shifting the di
 
 
 
-**Thank you to all of the entrepreneurs, VCs, and larger community for sparking positive change in our industry. 2017 was a period of sharing, listening, and processing. 2018 is the time for action and #MovingForward.**
+Thank you to all of the entrepreneurs, VCs, and larger community for sparking positive change in our industry. 2017 was a period of sharing, listening, and processing. **2018 is the time for action and #MovingForward.**
