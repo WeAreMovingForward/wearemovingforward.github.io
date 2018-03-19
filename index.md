@@ -67,14 +67,12 @@ Not sure where to start? Check out [our resources](#resources).
 _For those thinking: “We don’t have anything yet, where do we start?”_
 
 **Templates and example policies:**
-* NVCA recently published [resources to help address sexual harassment in the venture ecosystem](https://nvca.org/pressreleases/nvca-unveils-resources-help-address-sexual-harassment-venture-ecosystem/), which includes (1) sample H.R. policies for addressing harassment & discrimination; (2) sample H.R. best practices for addressing harassment & discrimination; and (3) a sample code of conduct
 * [Project Include](http://projectinclude.org/), a non-profit focused on building meaningful, enduring diversity and inclusion within tech startups and as well as their broader ecosystem (e.g., [guide to writing a code of conduct](http://projectinclude.org/writing_cocs))
-* [Venture Inclusion Network](https://www.ventureinclusion.com/) hosts a curated directory of experts and services, initiatives in the industry, sample policies, best practices and more
-* [A template for investor/founder sexual harassment policy](https://techcrunch.com/2017/07/05/harassment-policy-template/) (TechCrunch)
-* [Level classifications of harassment and assault](https://cherylyeoh.com/2017/07/03/shedding-light-on-the-black-box-of-inappropriateness/) (Cheryl Yeoh Sew Hoy)
+* NVCA recently published [resources to help address harassment in the venture ecosystem](https://nvca.org/pressreleases/nvca-unveils-resources-help-address-sexual-harassment-venture-ecosystem/), which includes (1) sample H.R. policies for addressing harassment & discrimination; (2) sample H.R. best practices for addressing harassment & discrimination; and (3) a sample code of conduct
 * [Anti-Harassment Policy Template for Startups](https://news.greylock.com/anti-harassment-policy-template-for-startups-fe24a580bddf) (Greylock Partners)
-* [Staying Safe When You Say #MeToo](https://www.aclu.org/blog/privacy-technology/internet-privacy/staying-safe-when-you-say-metoo) (ALCU)
-
+* [Venture Inclusion Network](https://www.ventureinclusion.com/) hosts a curated directory of experts and services, initiatives in the industry, sample policies, best practices and more
+* [A template for investor/founder harassment policy](https://techcrunch.com/2017/07/05/harassment-policy-template/) (TechCrunch)
+* [Level classifications of harassment and assault](https://cherylyeoh.com/2017/07/03/shedding-light-on-the-black-box-of-inappropriateness/) (Cheryl Yeoh Sew Hoy)
 
 **Organizations, consultants, and tools:**
 * Check out [Venture Inclusion Network](https://www.ventureinclusion.com/experts-and-service-providers/) for a list of D&I experts, consulting firms, and service providers.
