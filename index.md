@@ -17,6 +17,8 @@ Specifically, our supporters have provided:
 * Point(s)-of-contact for entrepreneurs to ask questions and report issues
 * A short statement on their efforts to nurture diverse, inclusive and harassment-free workplaces
 
+Of note: Oftentimes the discussion of and efforts to address harassment and discrimination have focused narrowly on sexual harassment and gender discrimination. We strongly believe that we need comprehensively and intersectionally inclusive workplaces and policies that consider not just gender but also race, age, sexuality, disability status, family status, immigration status, and many other dimensions of identity and experience.
+
 **This directory is open-source.** Any firm can add and update their policies and point(s)-of-contact, and we hope that every major venture firm will participate.
 
 <p class="btn-wrapper">
