@@ -93,6 +93,7 @@ _For those thinking: “We don’t have anything yet, where do we start?”_
   <a href="https://pando.com/2018/03/08/beyond-metoo-new-initiative-movingforward-seeks-hold-newly-shaken-silicon-valley-accountable/" class="press-logo-link">
     <img src="/assets/img/thirdparty/pando-logo.png" alt="Pando logo" class="press-logo"/>
   </a>
+  <a href="https://www.bloomberg.com/news/videos/2018-03-22/next-steps-for-movingforward-and-metoo-video" class="press-logo-link"><img src="/assets/img/thirdparty/bloomberg_logo.png" alt="Bloomberg logo" class="press-logo"/></a>
 </div>
 
 
