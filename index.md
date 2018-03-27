@@ -93,7 +93,14 @@ _For those thinking: “We don’t have anything yet, where do we start?”_
   <a href="https://pando.com/2018/03/08/beyond-metoo-new-initiative-movingforward-seeks-hold-newly-shaken-silicon-valley-accountable/" class="press-logo-link">
     <img src="/assets/img/thirdparty/pando-logo.png" alt="Pando logo" class="press-logo"/>
   </a>
-  <a href="https://www.bloomberg.com/news/videos/2018-03-22/next-steps-for-movingforward-and-metoo-video" class="press-logo-link"><img src="/assets/img/thirdparty/bloomberg_logo.png" alt="Bloomberg logo" class="press-logo"/></a>
+</div>
+<div class="press-logos-container">
+  <a href="https://www.bloomberg.com/news/videos/2018-03-22/next-steps-for-movingforward-and-metoo-video" class="press-logo-link">
+    <img src="/assets/img/thirdparty/bloomberg_logo.png" alt="Bloomberg logo" class="press-logo"/>
+  </a>
+    <a href="https://www.institutionalinvestor.com/article/b17hndr10zmwwb/venture-capital-has-a-%E2%80%98metoo%E2%80%99-problem-have-investors-been-ignoring-it" class="press-logo-link">
+    <img src="/assets/img/thirdparty/institutional_investor_logo.svg" alt="Institutional Investor logo" class="press-logo"/>
+  </a>
 </div>
 
 
@@ -102,6 +109,10 @@ _For those thinking: “We don’t have anything yet, where do we start?”_
 **Recode** - ["Some venture capital firms are publicizing their sexual harassment policies for the first time"](https://www.recode.net/2018/3/8/17094632/venture-capital-sexual-harassment-policies-moving-forward-directory) (March 8, 2018)
 
 **Pando** - ["Beyond #MeToo: A new initiative #MovingForward seeks to hold a newly shaken Silicon Valley accountable"](https://pando.com/2018/03/08/beyond-metoo-new-initiative-movingforward-seeks-hold-newly-shaken-silicon-valley-accountable/) (March 8, 2018)
+
+**Bloomberg** - ["Next Steps for #MovingForward and #MeToo"](https://www.bloomberg.com/news/videos/2018-03-22/next-steps-for-movingforward-and-metoo-video) (March 22, 2018)
+
+**Institutional Investory** - ["Venture Capital Has a ‘MeToo’ Problem. Have Investors Been Ignoring It?"](https://www.institutionalinvestor.com/article/b17hndr10zmwwb/venture-capital-has-a-%E2%80%98metoo%E2%80%99-problem-have-investors-been-ignoring-it) (March 26, 2018)
 
 ## [](#from-supporters)From Our Supporters
 * Homebrew Blog - ["Human Resources Policy at Startups"](https://homebrewvc.tumblr.com/post/171529097583/human-resources-policy-at-startups) (March 4, 2018)
