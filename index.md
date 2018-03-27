@@ -128,6 +128,7 @@ _For those thinking: “We don’t have anything yet, where do we start?”_
 * Mark Suster - ["The VC Inclusion Clause #MovingForward"](https://bothsidesofthetable.com/the-vc-inclusion-clause-movingforward-c5e21e61820) (March 8, 2018)
 * Aydin Senkut - ["Reflections on #MovingForward"](https://www.linkedin.com/pulse/reflections-movingforward-aydin-senkut/?trackingId=jLqKECm6f3GC980OXZ5WTQ%3D%3D) (March 8, 2018)
 * Brad Feld - ["International Women’s Day #StartWithEight #MovingForward"](https://www.feld.com/archives/2018/03/international-womens-day-startwitheight-movingforward.html) (March 8, 2018)
+* Rob Hayes - ["Making Diversity Core to Community"](https://medium.com/@firstround/making-diversity-core-to-community-bbedcfd12b69) (March 26, 2018)
 
 
 ### [](#partners)This open-source directory was built in collaboration with the VCs listed above and …
