@@ -123,6 +123,7 @@ _For those thinking: “We don’t have anything yet, where do we start?”_
 * Costanoa Ventures - ["Our Berlin Wall Moment: How Venture is #MovingForward"](https://medium.com/costanoa-ventures/our-berlin-wall-moment-how-venture-is-movingforward-863aaeeef5fe) (March 8, 2018)
 * Upfront Ventures - ["Why We Have Zero Tolerance for Sexual Misconduct"](https://insights.upfront.com/why-we-have-zero-tolerance-for-sexual-misconduct-1d08432fb717) & ["Upfront VC Inclusion Clause"](https://insights.upfront.com/upfront-vc-inclusion-clause-213e708bd36) (March 8, 2018)
 * Zetta Venture Partners - ["Moving Forward Together"](https://medium.com/@Zetta/moving-forward-together-3893c41bb44a) (March 8, 2018)
+* Laconia Capital Group - ["Moving Forward and Beyond: Our Statement on Diversity, Inclusion, and Anti-Harassment"](https://www.laconiacapitalgroup.com/blog/2018/4/6/movingforwardandbeyond) (April 6, 2018)
 * Ellen Pao / Project Include - ["#MovingForward Together"](https://medium.com/projectinclude/movingforward-together-1f19a991a68c) (March 8, 2018)
 * Cheryl (Yeoh) Sew Hoy - ["#MovingForward: Highlighting VCs Committed to Action"](https://www.linkedin.com/pulse/movingforward-highlighting-vcs-committed-action-cheryl-sew-hoy/?published=t) (March 8, 2018)
 * Mark Suster - ["The VC Inclusion Clause #MovingForward"](https://bothsidesofthetable.com/the-vc-inclusion-clause-movingforward-c5e21e61820) (March 8, 2018)
