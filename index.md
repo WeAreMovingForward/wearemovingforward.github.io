@@ -139,6 +139,4 @@ _For those thinking: “We don’t have anything yet, where do we start?”_
      <img src="/assets/img/thirdparty/projectinclude-logo.png" alt="Project Include logo" class="partner-logo" />
 </div>
 
-
-
 Thank you to all of the entrepreneurs, VCs, and larger community for sparking positive change in our industry. 2017 was a period of sharing, listening, and processing. **2018 is the time for action and #MovingForward.**
