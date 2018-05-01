@@ -112,7 +112,7 @@ _For those thinking: “We don’t have anything yet, where do we start?”_
 
 **Bloomberg** - ["Next Steps for #MovingForward and #MeToo"](https://www.bloomberg.com/news/videos/2018-03-22/next-steps-for-movingforward-and-metoo-video) (March 22, 2018)
 
-**Institutional Investory** - ["Venture Capital Has a ‘MeToo’ Problem. Have Investors Been Ignoring It?"](https://www.institutionalinvestor.com/article/b17hndr10zmwwb/venture-capital-has-a-%E2%80%98metoo%E2%80%99-problem-have-investors-been-ignoring-it) (March 26, 2018)
+**Institutional Investor** - ["Venture Capital Has a ‘MeToo’ Problem. Have Investors Been Ignoring It?"](https://www.institutionalinvestor.com/article/b17hndr10zmwwb/venture-capital-has-a-%E2%80%98metoo%E2%80%99-problem-have-investors-been-ignoring-it) (March 26, 2018)
 
 ## [](#from-supporters)From Our Supporters
 * Homebrew Blog - ["Human Resources Policy at Startups"](https://homebrewvc.tumblr.com/post/171529097583/human-resources-policy-at-startups) (March 4, 2018)
