@@ -37,7 +37,7 @@ _As supporters, we pledge to share our statement, external policy, and point(s)-
 
 ## Continue to share your progress
 
-+ On March 8, 2018, **42** firms made a public commitment to nurture diverse, inclusive and harassment-free workplaces. Another **16** firms pledged to make their commitment public soon.
++ As of June 8, 2018, **we are working with over 100 firms**. **84** firms have made a public commitment to nurture diverse, inclusive and harassment-free workplaces. Another **18** firms pledged to make their commitment public soon, and we're actively helping them finalize materials.
 + We’re inviting additional VCs to commit to [share](https://airtable.com/shrudsWooa1wa7sCm) their policies, statements, and points-of-contact.
 + If you’re a founder, and your investor isn’t on here yet, please share the #MovingForward project with them.
 
@@ -69,10 +69,11 @@ Not sure where to start? Check out [our resources](#resources).
 _For those thinking: “We don’t have anything yet, where do we start?”_
 
 **Templates and example policies:**
+*  [Guidlines for VCs Writing Discrimination and Harassment Policies](https://medium.com/projectinclude/guidelines-for-vcs-writing-discrimination-harassment-policies-397d0823900a) (The #MovingForward team & Dr. Freada Kapor Klein)
 * [Project Include](http://projectinclude.org/), a non-profit focused on building meaningful, enduring diversity and inclusion within tech startups and as well as their broader ecosystem (e.g., [guide to writing a code of conduct](http://projectinclude.org/writing_cocs))
-* NVCA recently published [resources to help address harassment in the venture ecosystem](https://nvca.org/pressreleases/nvca-unveils-resources-help-address-sexual-harassment-venture-ecosystem/), which includes (1) sample H.R. policies for addressing harassment & discrimination; (2) sample H.R. best practices for addressing harassment & discrimination; and (3) a sample code of conduct
-* [Anti-Harassment Policy Template for Startups](https://news.greylock.com/anti-harassment-policy-template-for-startups-fe24a580bddf) (Greylock Partners)
+* NVCA [resources to help address harassment in the venture ecosystem](https://nvca.org/pressreleases/nvca-unveils-resources-help-address-sexual-harassment-venture-ecosystem/), which include (1) sample H.R. policies for addressing harassment & discrimination; (2) sample H.R. best practices for addressing harassment & discrimination; and (3) a sample code of conduct
 * [Venture Inclusion Network](https://www.ventureinclusion.com/) hosts a curated directory of experts and services, initiatives in the industry, sample policies, best practices and more
+* [Anti-Harassment Policy Template for Startups](https://news.greylock.com/anti-harassment-policy-template-for-startups-fe24a580bddf) (Greylock Partners)
 * [A template for investor/founder harassment policy](https://techcrunch.com/2017/07/05/harassment-policy-template/) (TechCrunch)
 * [Level classifications of harassment and assault](https://cherylyeoh.com/2017/07/03/shedding-light-on-the-black-box-of-inappropriateness/) (Cheryl Yeoh Sew Hoy)
 
