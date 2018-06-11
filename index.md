@@ -19,19 +19,24 @@ Specifically, our supporters have provided:
 
 Of note: Oftentimes the discussion of and efforts to address harassment and discrimination have focused narrowly on sexual harassment and gender discrimination. We strongly believe that we need comprehensively and intersectionally inclusive workplaces and policies that consider not just gender but also race, age, sexuality, disability status, family status, immigration status, and many other dimensions of identity and experience.
 
-**This directory is open-source.** Any firm can add and update their policies and point(s)-of-contact, and we hope that every major venture firm will participate.
+**This directory is open-source.** Any firm can add and update their policies and point(s)-of-contact, and we hope that every major venture firm will participate. We value progress over perfection.
 
 <p class="btn-wrapper">
   <a href="https://airtable.com/shrudsWooa1wa7sCm" class="btn btn-dark">Join #MovingForward</a>
 </p>
 
 ## [](#vcs-mf) VCs #MovingForward
-_This is a living document, and we value progress, not perfection._
+_We've taken action towards creating more diverse and inclusive workplaces by making our discrimination & harassment policies and reporting contacts available to the public._
 
 <iframe class="airtable-embed" src="https://airtable.com/embed/shrnSQtiGLgk3rYPh?backgroundColor=orange&viewControls=on" frameborder="0" onmousewheel="" width="100%" height="533" style="background: transparent; border: 1px solid #ccc;"></iframe>
 
+## [](#vcs-MF) VCs #MovingForward - Private Documents
+_We've taken action by making reporting contacts available and by creating a policy, but #MovingForward cannot confirm that a copy of the policy will be available digitally upon request._
+
+<iframe class="airtable-embed" src="https://airtable.com/embed/shrAKTXKizqSo34vz?backgroundColor=orange&viewControls=on" frameborder="0" onmousewheel="" width="100%" height="533" style="background: transparent; border: 1px solid #ccc;"></iframe>
+
 ## [](#vcs-mf) VC Pledges
-_As supporters, we pledge to share our statement, external policy, and point(s)-of-contact with #MovingForward soon._
+_We pledge to share our statement, external policy, and point(s)-of-contact with #MovingForward in the next 30 days._
 
 <iframe class="airtable-embed" src="https://airtable.com/embed/shr97lXRbhMLDJl6Z?backgroundColor=orange&viewControls=on" frameborder="0" onmousewheel="" width="100%" height="533" style="background: transparent; border: 1px solid #ccc;"></iframe>
 
