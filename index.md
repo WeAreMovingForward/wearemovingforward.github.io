@@ -74,7 +74,7 @@ Not sure where to start? Check out [our resources](#resources).
 _For those thinking: “We don’t have anything yet, where do we start?”_
 
 **Templates and example policies:**
-*  [Guidlines for VCs Writing Discrimination and Harassment Policies](https://medium.com/projectinclude/guidelines-for-vcs-writing-discrimination-harassment-policies-397d0823900a) (The #MovingForward team & Dr. Freada Kapor Klein)
+*  [Guidelines for VCs Writing Discrimination and Harassment Policies](https://medium.com/projectinclude/guidelines-for-vcs-writing-discrimination-harassment-policies-397d0823900a) (The #MovingForward team & Dr. Freada Kapor Klein)
 * [Project Include](http://projectinclude.org/), a non-profit focused on building meaningful, enduring diversity and inclusion within tech startups and as well as their broader ecosystem (e.g., [guide to writing a code of conduct](http://projectinclude.org/writing_cocs))
 * NVCA [resources to help address harassment in the venture ecosystem](https://nvca.org/pressreleases/nvca-unveils-resources-help-address-sexual-harassment-venture-ecosystem/), which include (1) sample H.R. policies for addressing harassment & discrimination; (2) sample H.R. best practices for addressing harassment & discrimination; and (3) a sample code of conduct
 * [Venture Inclusion Network](https://www.ventureinclusion.com/) hosts a curated directory of experts and services, initiatives in the industry, sample policies, best practices and more
