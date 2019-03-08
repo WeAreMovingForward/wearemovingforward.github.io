@@ -148,6 +148,7 @@ _For those thinking: “We don’t have anything yet, where do we start?”_
 * capital300 - ["Fostering Inclusion While Striving For Diversity"](https://www.capital300.com/news/fostering-inclusion-while-striving-for-diversity) (March 7, 2019)
 * Balderton Capital - ["Why We're #MovingForward"](https://www.balderton.com/news/why-were-movingforward) (March 8, 2019)
 * LocalGlobe - ["LocalGlobe Joins Project #MovingForward"](https://medium.com/@localglobevc/f88c5de4c947) (March 8, 2019)
+* GrowthInvest - ["GrowthInvest Supports the #MovingForward Initiative as a European Launch Partner"](https://growthinvest.com/giarticles/partnering-movingforward-international-womens-day/) (March 8, 2019)
 
 
 ### [](#partners)This open-source directory was built in collaboration with the VCs listed above and …
