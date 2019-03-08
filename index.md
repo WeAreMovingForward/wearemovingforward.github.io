@@ -143,6 +143,11 @@ _For those thinking: “We don’t have anything yet, where do we start?”_
 * Aydin Senkut - ["Reflections on #MovingForward"](https://www.linkedin.com/pulse/reflections-movingforward-aydin-senkut/?trackingId=jLqKECm6f3GC980OXZ5WTQ%3D%3D) (March 8, 2018)
 * Brad Feld - ["International Women’s Day #StartWithEight #MovingForward"](https://www.feld.com/archives/2018/03/international-womens-day-startwitheight-movingforward.html) (March 8, 2018)
 * Rob Hayes - ["Making Diversity Core to Community"](https://medium.com/@firstround/making-diversity-core-to-community-bbedcfd12b69) (March 26, 2018)
+* Yrjö Ojasaar - ["Change Ventures first in the Baltics to join #MovingForward"](https://medium.com/@yrjo/change-ventures-first-in-the-baltics-to-join-movingforward-57223e921896) (February 25, 2018)
+* Alice Bentinck - ["#MovingForward from harassment and discrimination in fundraising"](https://medium.com/@Alicebentinck/movingforward-from-harassment-and-discrimination-in-fundraising-e475c98ccb4a) (March 5, 2019)
+* capital300 - ["Fostering Inclusion While Striving For Diversity"](https://www.capital300.com/news/fostering-inclusion-while-striving-for-diversity) (March 7, 2019)
+* Balderton Capital - ["Why We're #MovingForward"](https://www.balderton.com/news/why-were-movingforward) (March 8, 2019)
+* LocalGlobe - ["LocalGlobe Joins Project #MovingForward"](https://medium.com/@localglobevc/f88c5de4c947) (March 8, 2019)
 
 
 ### [](#partners)This open-source directory was built in collaboration with the VCs listed above and …
