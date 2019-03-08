@@ -5,7 +5,7 @@ layout: default
 
 ### _“As an entrepreneur, if I experience harassment or discrimination, where do I report it and how will I be protected?”_
 
-This question emerged at a founders dinner a few months ago. None of us had a good answer, so, true to form, we started brainstorming. We asked our friends in VC if their firms had external policies and/or a reporting channel.
+This question emerged at a founders dinner in November 2017. None of us had a good answer, so we started brainstorming. We asked our friends in VC if their firms had external policies and/or a reporting channel.
 
 In opening the conversation, we learned that the issue was already top of mind for many VCs. But it was hard to see what individual firms were doing from the outside. So #MovingForward was born.
 
@@ -13,17 +13,17 @@ In opening the conversation, we learned that the issue was already top of mind f
 ### **#MovingForward gathers VC commitments to foster a diverse, inclusive, and harassment-free workplace.**
 
 Specifically, our supporters have provided:
-* Their anti-harassment/discrimination policies
+* Pubicly available anti-harassment/discrimination policies
 * Point(s)-of-contact for entrepreneurs to ask questions and report issues
 * A short statement on their efforts to nurture diverse, inclusive and harassment-free workplaces
 
-Of note: Oftentimes the discussion of and efforts to address harassment and discrimination have focused narrowly on sexual harassment and gender discrimination. We strongly believe that we need comprehensively and intersectionally inclusive workplaces and policies that consider not just gender but also race, age, sexuality, disability status, family status, immigration status, and many other dimensions of identity and experience.
-
-**This directory is open-source.** Any firm can add and update their policies and point(s)-of-contact, and we hope that every major venture firm will participate. We value progress over perfection.
+Of note: Oftentimes the discussion of and efforts to address harassment and discrimination have focused narrowly on sexual harassment and gender discrimination. We strongly believe that we need comprehensively and intersectionally inclusive workplaces and policies that consider not just gender but also race, age, sexuality, disability status, family status, immigration status, and many other dimensions of identity and experience. As such, baking intersectionality into your materials is a requirement of joining #MovingForward.
 
 <p class="btn-wrapper">
   <a href="https://airtable.com/shrudsWooa1wa7sCm" class="btn btn-dark">Join #MovingForward</a>
 </p>
+
+**This directory is open-source.** Any firm can add and update their policies and point(s)-of-contact via our [form](https://airtable.com/shrudsWooa1wa7sCm), and we hope that every major venture firm will participate. We value progress over perfection, and admire the work of the following firms leading the venture industry towards inclusion:
 
 # [](#vcs-mf) _"We've taken action towards creating more diverse and inclusive workplaces by making our discrimination & harassment policies and reporting contacts available to the public."_
 
@@ -49,31 +49,28 @@ Of note: Oftentimes the discussion of and efforts to address harassment and disc
 
 ## Continue to share your progress
 
-+ As of June 8, 2018, **we are working with over 100 firms**. **84** firms have made a public commitment to nurture diverse, inclusive and harassment-free workplaces. Another **18** firms pledged to make their commitment public soon, and we're actively helping them finalize materials.
-+ We’re inviting additional VCs to commit to [share](https://airtable.com/shrudsWooa1wa7sCm) their policies, statements, and points-of-contact.
-+ If you’re a founder, and your investor isn’t on here yet, please share the #MovingForward project with them.
++ As of March 8, 2019, **we are working with 148 firms total**. We invite additional VCs to commit by sharing their policies, statements, and points-of-contact via our [form](https://airtable.com/shrudsWooa1wa7sCm). Not sure where to start? Check out our [resources](#resources).
+
++ If you’re a founder, and your investor isn’t on here yet, please share #MovingForward with them.
 
 <p class="btn-wrapper">
   <a href="https://airtable.com/shrudsWooa1wa7sCm" class="btn btn-dark">Join #MovingForward</a>
 </p>
 
-Not sure where to start? Check out [our resources](#resources).
-
 ## Why #MovingForward
-+ **Value for Firms:** VCs say the process of making their policies public and establishing reporting lines has sparked conversations and aligned the firm’s partnership internally around this matter. We hope this movement further motivates that process.
-+ **Value for Founders:** #MovingForward strives to make it easier for founders to review policies, find supportive investors, and identify a reporting contact. If you don’t see your investors here, share this project with them.
++ **Value for Firms:** VCs say the process of making their policies public and establishing reporting lines has sparked conversations and aligned the firm’s partnership internally around this matter. 
++ **Value for Founders:** #MovingForward makes it easier for founders to review policies, find supportive investors, and identify reporting contacts. If you don’t see your investors on here, share this project with them.
 
 ### But really, why are you doing this?
 
  A small group of entrepreneurs came together with three goals:
 
- 1. **Launch a public, collective step forward for the venture industry.** We aim to highlight each firm's approach and commitment so that we can learn and move together. Crafting external anti-discrimination and anti-harassment policies is just a first step––there’s much more do to, and a number of organizations are launching initiatives to catalyze real change.
+ 1. **Launch a public, collective step forward for the venture industry.** We aim to highlight each firm's approach and commitment so that we can learn and move together. Crafting external anti-discrimination and anti-harassment policies is an important first step––and there’s much more do to. We've been impressed by a number of firms launching their own creative initiatives to catalyze change.
 
- 2. **Facilitate transparent reporting channels and information routes.** Entrepreneurs facing harassment or discrimination are often unsure where to go to report. It can feel like going public is the only choice, and as such, our community faces a large issue of under-reporting.
- One way firms can address this need is by providing formal point(s)-of-contact for entrepreneurs. Some VCs are working with third-party HR consulting groups to nail down the proper templates/policies or reporting channels for raising concerns.
- We also support having internal point(s)-of-contact contact who can answer questions about the firm’s policy and provide further information if need be.
+ 2. **Facilitate transparent reporting channels.** Entrepreneurs facing harassment or discrimination are often unsure where and how to report. It can feel like going public is the only choice, and as such, our community faces significant under-reporting of incidents.
+ One way firms can address this need is by providing formal point(s)-of-contact for entrepreneurs. Some VCs are working with third-party groups to nail down the proper templates/policies or reporting channels for raising concerns. We endorse this practice. #MovingForward also supports having internal point(s)-of-contact contact who can answer questions about the firm’s policy and provide further information if need be.
 
- 3. **Provide a universal, open-source, and evolving wiki for continuous updates.** As policies and supporting strategies evolve and the industry continues to iterate, we want to provide an open forum for any firm to [self-report](https://airtable.com/shrudsWooa1wa7sCm) their efforts. We’ve hosting [this directory on GitHub](https://github.com/WeAreMovingForward/wearemovingforward.github.io).
+ 3. **Provide a universal, open-source, and evolving wiki for continuous updates.** As policies and supporting strategies evolve and the industry continues to iterate, we want to provide an open platform where any firm can [self-report](https://airtable.com/shrudsWooa1wa7sCm) their efforts. We are hosting [this directory on GitHub](https://github.com/WeAreMovingForward/wearemovingforward.github.io).
 
 
 ## [](#resources)Resources
@@ -82,7 +79,6 @@ _For those thinking: “We don’t have anything yet, where do we start?”_
 
 **Templates and example policies:**
 *  [Guidelines for VCs Writing Discrimination and Harassment Policies](https://medium.com/projectinclude/guidelines-for-vcs-writing-discrimination-harassment-policies-397d0823900a) (The #MovingForward team & Dr. Freada Kapor Klein)
-* [Project Include](http://projectinclude.org/), a non-profit focused on building meaningful, enduring diversity and inclusion within tech startups and as well as their broader ecosystem (e.g., [guide to writing a code of conduct](http://projectinclude.org/writing_cocs))
 * NVCA [resources to help address harassment in the venture ecosystem](https://nvca.org/pressreleases/nvca-unveils-resources-help-address-sexual-harassment-venture-ecosystem/), which include (1) sample H.R. policies for addressing harassment & discrimination; (2) sample H.R. best practices for addressing harassment & discrimination; and (3) a sample code of conduct
 * [Venture Inclusion Network](https://www.ventureinclusion.com/) hosts a curated directory of experts and services, initiatives in the industry, sample policies, best practices and more
 * [Anti-Harassment Policy Template for Startups](https://news.greylock.com/anti-harassment-policy-template-for-startups-fe24a580bddf) (Greylock Partners)
@@ -90,9 +86,8 @@ _For those thinking: “We don’t have anything yet, where do we start?”_
 * [Level classifications of harassment and assault](https://cherylyeoh.com/2017/07/03/shedding-light-on-the-black-box-of-inappropriateness/) (Cheryl Yeoh Sew Hoy)
 
 **Organizations, consultants, and tools:**
-* Check out [Venture Inclusion Network](https://www.ventureinclusion.com/experts-and-service-providers/) for a list of D&I experts, consulting firms, and service providers.
-
-* _Coming soon: We're also developing a Product Hunt Collection for tools that support diverse, inclusive, and harassment-free workplaces._
+* [Project Include](http://projectinclude.org/), a non-profit focused on building meaningful, enduring diversity and inclusion within tech startups and as well as their broader ecosystem (e.g., [guide to writing a code of conduct](http://projectinclude.org/writing_cocs))
+* [Venture Inclusion Network](https://www.ventureinclusion.com/experts-and-service-providers/) hosts a list of diversity and inclusion experts, consulting firms, and service providers.
 
 
 # [](#press)Press
@@ -157,4 +152,4 @@ _For those thinking: “We don’t have anything yet, where do we start?”_
      <img src="/assets/img/thirdparty/projectinclude-logo.png" alt="Project Include logo" class="partner-logo" />
 </div>
 
-Thank you to all of the entrepreneurs, VCs, and larger community for sparking positive change in our industry. 2017 was a period of sharing, listening, and processing. **2018 is the time for action and #MovingForward.**
+Thank you to all of the entrepreneurs, VCs, and larger community for sparking positive change in our industry. 2017 was a period of sharing, listening, and processing. **Now is the time for action and #MovingForward.**
