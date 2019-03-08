@@ -25,18 +25,25 @@ Of note: Oftentimes the discussion of and efforts to address harassment and disc
   <a href="https://airtable.com/shrudsWooa1wa7sCm" class="btn btn-dark">Join #MovingForward</a>
 </p>
 
-## [](#vcs-mf) VCs #MovingForward
-_We've taken action towards creating more diverse and inclusive workplaces by making our discrimination & harassment policies and reporting contacts available to the public._
+# [](#vcs-mf) _"We've taken action towards creating more diverse and inclusive workplaces by making our discrimination & harassment policies and reporting contacts available to the public."_
+
+## [](#vcs-mf) VCs #MovingForward - North America
 
 <iframe class="airtable-embed" src="https://airtable.com/embed/shrnSQtiGLgk3rYPh?backgroundColor=orange&viewControls=on" frameborder="0" onmousewheel="" width="100%" height="533" style="background: transparent; border: 1px solid #ccc;"></iframe>
 
-## [](#vcs-MF) VCs #MovingForward - Private Documents
-_We've taken action by making reporting contacts available and by creating a policy, but #MovingForward cannot confirm that a copy of the policy will be available digitally upon request._
+## [](#vcs-mf) VCs #MovingForward - Europe
+
+<iframe class="airtable-embed" src="https://airtable.com/embed/shrY5LHMVzJngfiNN?backgroundColor=orange&viewControls=on" frameborder="0" onmousewheel="" width="100%" height="533" style="background: transparent; border: 1px solid #ccc;"></iframe>
+
+## [](#vcs-mf) VCs #MovingForward - Australia & New Zealand
+
+<iframe class="airtable-embed" src="https://airtable.com/embed/shrUkljNsrKY515xw?backgroundColor=orange&viewControls=on" frameborder="0" onmousewheel="" width="100%" height="533" style="background: transparent; border: 1px solid #ccc;"></iframe>
+
+## [](#vcs-MF) "_We have created reporting contacts and a policy, but #MovingForward cannot confirm that a copy of the policy will be available digitally upon request._"
 
 <iframe class="airtable-embed" src="https://airtable.com/embed/shrAKTXKizqSo34vz?backgroundColor=orange&viewControls=on" frameborder="0" onmousewheel="" width="100%" height="533" style="background: transparent; border: 1px solid #ccc;"></iframe>
 
-## [](#vcs-mf) VC Pledges
-_We pledge to share our statement, external policy, and point(s)-of-contact with #MovingForward in the next 30 days._
+## [](#vcs-mf) "_We pledge to share our statement, external policy, and point(s)-of-contactin the next 30 days._"
 
 <iframe class="airtable-embed" src="https://airtable.com/embed/shr97lXRbhMLDJl6Z?backgroundColor=orange&viewControls=on" frameborder="0" onmousewheel="" width="100%" height="533" style="background: transparent; border: 1px solid #ccc;"></iframe>
 
