@@ -106,11 +106,22 @@ _For those thinking: “We don’t have anything yet, where do we start?”_
   <a href="https://www.bloomberg.com/news/videos/2018-03-22/next-steps-for-movingforward-and-metoo-video" class="press-logo-link">
     <img src="/assets/img/thirdparty/bloomberg_logo.png" alt="Bloomberg logo" class="press-logo"/>
   </a>
-    <a href="https://www.institutionalinvestor.com/article/b17hndr10zmwwb/venture-capital-has-a-%E2%80%98metoo%E2%80%99-problem-have-investors-been-ignoring-it" class="press-logo-link">
+  <a href="https://www.institutionalinvestor.com/article/b17hndr10zmwwb/venture-capital-has-a-%E2%80%98metoo%E2%80%99-problem-have-investors-been-ignoring-it" class="press-logo-link">
     <img src="/assets/img/thirdparty/institutional_investor_logo.svg" alt="Institutional Investor logo" class="press-logo"/>
   </a>
-    <a href="https://americanenoughpodcast.com/2018/07/stopping-sexual-misconduct-in-silicon-valley-with-the-co-founders-of-movingforward/" class="press-logo-link">
+  <a href="https://americanenoughpodcast.com/2018/07/stopping-sexual-misconduct-in-silicon-valley-with-the-co-founders-of-movingforward/" class="press-logo-link">
     <img src="/assets/img/thirdparty/american_enough_podcast_logo_3000px.png" alt="American Enough logo" class="press-logo"/>
+  </a>
+</div>
+<div class="press-logos-container">
+  <a href="https://business.lesechos.fr/entrepreneurs/financer-sa-creation/0600846192080-movingforward-se-lance-en-europe-pour-combattre-la-discrimination-dans-l-investissement-327610.php" class="press-logo-link">
+    <img src="/assets/img/thirdparty/les-echos.png" alt="Les Echos logo" class="press-logo"/>
+  </a>
+  <a href="https://www.wired.co.uk/article/movingforward-sexism-vc-ellen-pao" class="press-logo-link">
+    <img src="/assets/img/thirdparty/wired-logo.png" alt="WIRED logo" class="press-logo"/>
+  </a>
+  <a href="https://www.db.lv/zinas/iestajas-par-dazadibu-un-ieklausanu-485080" class="press-logo-link">
+    <img src="/assets/img/thirdparty/dienas-bizness.png" alt="Dienas Bizness logo" class="press-logo"/>
   </a>
 </div>
 
