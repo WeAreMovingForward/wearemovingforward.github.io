@@ -107,6 +107,7 @@
   div.press-logos-container {
     display: flex;
     justify-content: space-around;
+    min-height: 150px;
 
     .press-logo-link {
       align-self: center;
