@@ -124,6 +124,14 @@ _For those thinking: “We don’t have anything yet, where do we start?”_
     <img src="/assets/img/thirdparty/dienas-bizness.png" alt="Dienas Bizness logo" class="press-logo"/>
   </a>
 </div>
+<div class="press-logos-container">
+  <a href="https://www.forbes.com/sites/madhvimavadiya/2019/03/31/cheryl-yeoh-sew-hoy-cracking-down-on-vc-sexual-harassment/" class="press-logo-link">
+    <img src="/assets/img/thirdparty/forbes-logo.png" alt="Forbes logo" class="press-logo"/>
+  </a>
+  <a href="https://www.bloomberg.com/news/audio/2019-04-04/investors-commonly-fund-people-who-look-like-them-radio" class="press-logo-link">
+    <img src="/assets/img/thirdparty/BloombergRadioLogo.jpg" alt="Bloomberg Radio logo" class="press-logo"/>
+  </a>
+</div>
 
 
 **CNN** - ["She spoke out about harassment in tech. Now, she's helping VCs 'move forward'"](http://money.cnn.com/2018/03/08/technology/movingforward-tech-vc-harassment/index.html) (March 8, 2018)
