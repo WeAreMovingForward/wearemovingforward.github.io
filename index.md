@@ -35,7 +35,7 @@ Of note: Oftentimes the discussion of and efforts to address harassment and disc
 
 <iframe class="airtable-embed" src="https://airtable.com/embed/shrY5LHMVzJngfiNN?backgroundColor=orange&viewControls=on" frameborder="0" onmousewheel="" width="100%" height="533" style="background: transparent; border: 1px solid #ccc;"></iframe>
 
-## [](#vcs-mf) VCs #MovingForward - Australia & New Zealand
+## [](#vcs-mf) VCs #MovingForward - Asia, Australia & New Zealand
 
 <iframe class="airtable-embed" src="https://airtable.com/embed/shrUkljNsrKY515xw?backgroundColor=orange&viewControls=on" frameborder="0" onmousewheel="" width="100%" height="533" style="background: transparent; border: 1px solid #ccc;"></iframe>
 
@@ -58,7 +58,7 @@ Of note: Oftentimes the discussion of and efforts to address harassment and disc
 </p>
 
 ## Why #MovingForward
-+ **Value for Firms:** VCs say the process of making their policies public and establishing reporting lines has sparked conversations and aligned the firm’s partnership internally around this matter. 
++ **Value for Firms:** VCs say the process of making their policies public and establishing reporting lines has sparked conversations and aligned the firm’s partnership internally around this matter.
 + **Value for Founders:** #MovingForward makes it easier for founders to review policies, find supportive investors, and identify reporting contacts. If you don’t see your investors on here, share this project with them.
 
 ### But really, why are you doing this?
