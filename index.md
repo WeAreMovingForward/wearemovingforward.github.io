@@ -78,7 +78,8 @@ Of note: Oftentimes the discussion of and efforts to address harassment and disc
 _For those thinking: “We don’t have anything yet, where do we start?”_
 
 **Templates and example policies:**
-*  [Guidelines for VCs Writing Discrimination and Harassment Policies](https://medium.com/projectinclude/guidelines-for-vcs-writing-discrimination-harassment-policies-397d0823900a) (The #MovingForward team & Dr. Freada Kapor Klein)
+*  [Guidelines for VCs Writing Discrimination and Harassment Policies](https://medium.com/projectinclude/guidelines-for-vcs-writing-discrimination-harassment-policies-397d0823900a) (Ginny Fahs & Dr. Freada Kapor Klein)
+* [Guidelines for VCs Establishing Reporting Contacts](https://medium.com/p/guidelines-for-vcs-establishing-reporting-contacts-1d2cd51dc67c?source=email-d7d4a2d1439f--writer.postDistributed&sk=ef936f3d36508d94519deb57075395d2) (Ginny Fahs & Y-Vonne Hutchinson)
 * NVCA [resources to help address harassment in the venture ecosystem](https://nvca.org/pressreleases/nvca-unveils-resources-help-address-sexual-harassment-venture-ecosystem/), which include (1) sample H.R. policies for addressing harassment & discrimination; (2) sample H.R. best practices for addressing harassment & discrimination; and (3) a sample code of conduct
 * [Venture Inclusion Network](https://www.ventureinclusion.com/) hosts a curated directory of experts and services, initiatives in the industry, sample policies, best practices and more
 * [Anti-Harassment Policy Template for Startups](https://news.greylock.com/anti-harassment-policy-template-for-startups-fe24a580bddf) (Greylock Partners)
