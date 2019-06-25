@@ -132,6 +132,9 @@ _For those thinking: “We don’t have anything yet, where do we start?”_
   <a href="https://www.bloomberg.com/news/audio/2019-04-04/investors-commonly-fund-people-who-look-like-them-radio" class="press-logo-link">
     <img src="/assets/img/thirdparty/BloombergRadioLogo.jpg" alt="Bloomberg Radio logo" class="press-logo"/>
   </a>
+  <a href="https://www.techworld.com/careers/efs-alice-bentinck-talks-movingforward-diversity-3698391/" class="press-logo-link">
+    <img src="/assets/img/thirdparty/techworld-logo.png" alt="Techworld logo" class="press-logo"/>
+  </a>
 </div>
 
 
@@ -146,6 +149,18 @@ _For those thinking: “We don’t have anything yet, where do we start?”_
 **Institutional Investor** - ["Venture Capital Has a ‘MeToo’ Problem. Have Investors Been Ignoring It?"](https://www.institutionalinvestor.com/article/b17hndr10zmwwb/venture-capital-has-a-%E2%80%98metoo%E2%80%99-problem-have-investors-been-ignoring-it) (March 26, 2018)
 
 **American Enough** - ["Stopping Sexual Misconduct In Silicon Valley - The Co-Founders Of #MovingForward"](https://americanenoughpodcast.com/2018/07/stopping-sexual-misconduct-in-silicon-valley-with-the-co-founders-of-movingforward/) (July 23, 2018)
+
+**Les Echoes** - ["#MovingForward lutte contre la discrimination dans l'investissement"](https://business.lesechos.fr/entrepreneurs/financer-sa-creation/0600846192080-movingforward-se-lance-en-europe-pour-combattre-la-discrimination-dans-l-investissement-327610.php) (March 8, 2019)
+
+**WIRED** - ["Inside the group fighting to purge sexism from Europe's VCs"](https://www.wired.co.uk/article/movingforward-sexism-vc-ellen-pao) (March 8, 2019)
+
+**Dienas Bizness** - ["Iestājas par dažādību un iekļaušanu"](https://www.db.lv/zinas/iestajas-par-dazadibu-un-ieklausanu-485080) (March 8, 2019)
+
+**Forbes** - ["Cheryl Yeoh Sew Hoy: Cracking Down On VC Sexual Harassment"](https://www.forbes.com/sites/madhvimavadiya/2019/03/31/cheryl-yeoh-sew-hoy-cracking-down-on-vc-sexual-harassment/#325c8466e496) (March 31, 2019)
+
+**Bloomberg Radio** - ["Investors Commonly Fund People Who Look Like Them "](https://www.bloomberg.com/news/audio/2019-04-04/investors-commonly-fund-people-who-look-like-them-radio) (April 3, 2019)
+
+**Techworld** - ["EF's Alice Bentinck talks #MovingForward and the need for more diversity in VC"](https://www.techworld.com/careers/efs-alice-bentinck-talks-movingforward-diversity-3698391/) (June 21, 2019)
 
 ## [](#from-supporters)From Our Supporters
 * Homebrew Blog - ["Human Resources Policy at Startups"](https://homebrewvc.tumblr.com/post/171529097583/human-resources-policy-at-startups) (March 4, 2018)
