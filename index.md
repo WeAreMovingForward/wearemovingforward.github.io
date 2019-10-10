@@ -87,8 +87,11 @@ _For those thinking: “We don’t have anything yet, where do we start?”_
 * [Level classifications of harassment and assault](https://cherylyeoh.com/2017/07/03/shedding-light-on-the-black-box-of-inappropriateness/) (Cheryl Yeoh Sew Hoy)
 
 **Organizations, consultants, and tools:**
-* [Project Include](http://projectinclude.org/), a non-profit focused on building meaningful, enduring diversity and inclusion within tech startups and as well as their broader ecosystem (e.g., [guide to writing a code of conduct](http://projectinclude.org/writing_cocs))
+* [Project Include](http://projectinclude.org/) is a non-profit focused on building meaningful, enduring diversity and inclusion within tech startups and as well as their broader ecosystem (e.g., [guide to writing a code of conduct](http://projectinclude.org/writing_cocs))
 * [Venture Inclusion Network](https://www.ventureinclusion.com/experts-and-service-providers/) hosts a list of diversity and inclusion experts, consulting firms, and service providers.
+* [Purple Campaign](https://www.purplecampaign.org/) has a corporate certification to recognize employers taking recommended steps to address workplace harassment.
+* [ReadySet](https://www.thereadyset.co/) is a boutique consulting firm specializing in diversity, equity, and inclusion counseling.
+* [Ethena](https://www.goethena.com) offers irreverent corporate trainings with a harassment focus.
 
 
 # [](#press)Press
