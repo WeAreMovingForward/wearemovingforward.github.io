@@ -87,8 +87,11 @@ _For those thinking: “We don’t have anything yet, where do we start?”_
 * [Level classifications of harassment and assault](https://cherylyeoh.com/2017/07/03/shedding-light-on-the-black-box-of-inappropriateness/) (Cheryl Yeoh Sew Hoy)
 
 **Organizations, consultants, and tools:**
-* [Project Include](http://projectinclude.org/), a non-profit focused on building meaningful, enduring diversity and inclusion within tech startups and as well as their broader ecosystem (e.g., [guide to writing a code of conduct](http://projectinclude.org/writing_cocs))
+* [Project Include](http://projectinclude.org/) is a non-profit focused on building meaningful, enduring diversity and inclusion within tech startups and as well as their broader ecosystem (e.g., [guide to writing a code of conduct](http://projectinclude.org/writing_cocs))
 * [Venture Inclusion Network](https://www.ventureinclusion.com/experts-and-service-providers/) hosts a list of diversity and inclusion experts, consulting firms, and service providers.
+* [Purple Campaign](https://www.purplecampaign.org/) has a corporate certification to recognize employers taking recommended steps to address workplace harassment.
+* [ReadySet](https://www.thereadyset.co/) is a boutique consulting firm specializing in diversity, equity, and inclusion counseling.
+* [Ethena](https://www.goethena.com) offers irreverent corporate trainings with a harassment focus.
 
 
 # [](#press)Press
@@ -136,6 +139,17 @@ _For those thinking: “We don’t have anything yet, where do we start?”_
     <img src="/assets/img/thirdparty/techworld-logo.png" alt="Techworld logo" class="press-logo"/>
   </a>
 </div>
+<div class="press-logos-container">
+  <a href="https://fortune.com/2019/09/06/4-business-leaders-on-addressing-the-climate-crisis-the-broadsheet/" class="press-logo-link">
+    <img src="/assets/img/thirdparty/broadsheet-logo.png" alt="Broadsheet logo" class="press-logo"/>
+  </a>
+  <a href="https://www.theatlantic.com/ideas/archive/2019/09/change-harassment-silicon-valley-change-law/597373/" class="press-logo-link">
+    <img src="/assets/img/thirdparty/atlantic-logo.png" alt="Atlantic logo" class="press-logo"/>
+  </a>
+  <a href="https://www.deutschlandfunkkultur.de/nach-epstein-affaere-am-mit-microsoft-forscherin-danah-boyd.1264.de.html?dram:article_id=459851" class="press-logo-link">
+    <img src="/assets/img/thirdparty/dfkltr-logo.jpg" alt="Deutschlandfunk Kultur logo" class="press-logo"/>
+  </a>
+</div>
 
 
 **CNN** - ["She spoke out about harassment in tech. Now, she's helping VCs 'move forward'"](http://money.cnn.com/2018/03/08/technology/movingforward-tech-vc-harassment/index.html) (March 8, 2018)
@@ -162,6 +176,12 @@ _For those thinking: “We don’t have anything yet, where do we start?”_
 
 **Techworld** - ["EF's Alice Bentinck talks #MovingForward and the need for more diversity in VC"](https://www.techworld.com/careers/efs-alice-bentinck-talks-movingforward-diversity-3698391/) (June 21, 2019)
 
+**The Atlantic** - ["Silicon Valley’s Toxic Culture Requires a Legal Fix"](https://www.theatlantic.com/ideas/archive/2019/09/change-harassment-silicon-valley-change-law/597373/) (September 5, 2019)
+
+**The Broadsheet** - ["Protect your investment"](https://fortune.com/2019/09/06/4-business-leaders-on-addressing-the-climate-crisis-the-broadsheet/) (Sept 6, 2019)
+
+**Deutschlandfunk Kultur** - ["Microsoft-Forscherin Danah Boyd fordert „Stunde der Wahrheit“"](https://www.deutschlandfunkkultur.de/nach-epstein-affaere-am-mit-microsoft-forscherin-danah-boyd.1264.de.html?dram:article_id=459851) (Sept 28, 2019)
+
 ## [](#from-supporters)From Our Supporters
 * Homebrew Blog - ["Human Resources Policy at Startups"](https://homebrewvc.tumblr.com/post/171529097583/human-resources-policy-at-startups) (March 4, 2018)
 * First Round Capital - ["Questions we get all the time"](http://firstround.com/faq/?question=1164) (March 8, 2018)
@@ -184,6 +204,7 @@ _For those thinking: “We don’t have anything yet, where do we start?”_
 * Balderton Capital - ["Why We're #MovingForward"](https://www.balderton.com/news/why-were-movingforward) (March 8, 2019)
 * LocalGlobe - ["LocalGlobe Joins Project #MovingForward"](https://medium.com/@localglobevc/f88c5de4c947) (March 8, 2019)
 * GrowthInvest - ["GrowthInvest Supports the #MovingForward Initiative as a European Launch Partner"](https://growthinvest.com/giarticles/partnering-movingforward-international-womens-day/) (March 8, 2019)
+* Ellen Pao, WIRED - ["It's Way Too Early To Talk About #MeToo And Redemption"](https://www.wired.com/story/its-way-too-early-to-talk-about-metoo-and-redemption/) (Sept 3, 2019)
 
 
 ### [](#partners)This open-source directory was built in collaboration with the VCs listed above and …
