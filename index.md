@@ -205,6 +205,7 @@ _For those thinking: “We don’t have anything yet, where do we start?”_
 * LocalGlobe - ["LocalGlobe Joins Project #MovingForward"](https://medium.com/@localglobevc/f88c5de4c947) (March 8, 2019)
 * GrowthInvest - ["GrowthInvest Supports the #MovingForward Initiative as a European Launch Partner"](https://growthinvest.com/giarticles/partnering-movingforward-international-womens-day/) (March 8, 2019)
 * Ellen Pao, WIRED - ["It's Way Too Early To Talk About #MeToo And Redemption"](https://www.wired.com/story/its-way-too-early-to-talk-about-metoo-and-redemption/) (Sept 3, 2019)
+* Bee Partners - ["Why D&I Matters and What We're Doing"](https://www.beepartners.vc/allnews/2019/12/12/why-dampi-matters-and-what-were-doing) (Dec 12, 2019)
 
 
 ### [](#partners)This open-source directory was built in collaboration with the VCs listed above and …
