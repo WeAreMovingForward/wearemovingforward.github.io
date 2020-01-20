@@ -13,7 +13,7 @@ In opening the conversation, we learned that the issue was already top of mind f
 ### **#MovingForward gathers VC commitments to foster a diverse, inclusive, and harassment-free workplace.**
 
 Specifically, our supporters have provided:
-* Pubicly available anti-harassment/discrimination policies
+* Publicly available anti-harassment/discrimination policies
 * Point(s)-of-contact for entrepreneurs to ask questions and report issues
 * A short statement on their efforts to nurture diverse, inclusive and harassment-free workplaces
 
@@ -148,6 +148,14 @@ _For those thinking: “We don’t have anything yet, where do we start?”_
   </a>
   <a href="https://www.deutschlandfunkkultur.de/nach-epstein-affaere-am-mit-microsoft-forscherin-danah-boyd.1264.de.html?dram:article_id=459851" class="press-logo-link">
     <img src="/assets/img/thirdparty/dfkltr-logo.jpg" alt="Deutschlandfunk Kultur logo" class="press-logo"/>
+  </a>
+</div>
+<div class="press-logos-container">
+  <a href="https://news.crunchbase.com/news/from-helsinki-spot-and-movingforward-on-harassment-reporting-in-the-metoo-era/" class="press-logo-link">
+    <img src="/assets/img/thirdparty/crunchbase-logo.png" alt="Crunchbase logo" class="press-logo"/>
+  </a>
+  <a href="https://www.npr.org/2020/01/06/793134459/investors-naked-selfie-ignites-metoo-moment-female-founder-fights-back" class="press-logo-link">
+    <img src="/assets/img/thirdparty/npr-logo.png" alt="NPR logo" class="press-logo"/>
   </a>
 </div>
 
