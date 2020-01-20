@@ -188,7 +188,11 @@ _For those thinking: “We don’t have anything yet, where do we start?”_
 
 **The Broadsheet** - ["Protect your investment"](https://fortune.com/2019/09/06/4-business-leaders-on-addressing-the-climate-crisis-the-broadsheet/) (Sept 6, 2019)
 
-**Deutschlandfunk Kultur** - ["Microsoft-Forscherin Danah Boyd fordert „Stunde der Wahrheit“"](https://www.deutschlandfunkkultur.de/nach-epstein-affaere-am-mit-microsoft-forscherin-danah-boyd.1264.de.html?dram:article_id=459851) (Sept 28, 2019)
+**Deutschlandfunk Kultur** - ["Microsoft-Forscherin Danah Boyd fordert Stunde der Wahrheit“"](https://www.deutschlandfunkkultur.de/nach-epstein-affaere-am-mit-microsoft-forscherin-danah-boyd.1264.de.html?dram:article_id=459851) (Sept 28, 2019)
+
+**Crunchbase** - ["From Helsinki: Spot and #MovingForward on Harassment Reporting in the #MeToo Era"](https://news.crunchbase.com/news/from-helsinki-spot-and-movingforward-on-harassment-reporting-in-the-metoo-era/) (Dec 2, 2019)
+
+**NPR** - ["Investor's Naked Selfies Ignite #MeToo Moment: Female Founder Fights Back"](https://www.npr.org/2020/01/06/793134459/investors-naked-selfie-ignites-metoo-moment-female-founder-fights-back) (Jan 6, 2020)
 
 ## [](#from-supporters)From Our Supporters
 * Homebrew Blog - ["Human Resources Policy at Startups"](https://homebrewvc.tumblr.com/post/171529097583/human-resources-policy-at-startups) (March 4, 2018)
