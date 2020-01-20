@@ -150,6 +150,14 @@ _For those thinking: “We don’t have anything yet, where do we start?”_
     <img src="/assets/img/thirdparty/dfkltr-logo.jpg" alt="Deutschlandfunk Kultur logo" class="press-logo"/>
   </a>
 </div>
+<div class="press-logos-container">
+  <a href="https://news.crunchbase.com/news/from-helsinki-spot-and-movingforward-on-harassment-reporting-in-the-metoo-era/" class="press-logo-link">
+    <img src="/assets/img/thirdparty/crunchbase-logo.png" alt="Crunchbase logo" class="press-logo"/>
+  </a>
+  <a href="https://www.npr.org/2020/01/06/793134459/investors-naked-selfie-ignites-metoo-moment-female-founder-fights-back" class="press-logo-link">
+    <img src="/assets/img/thirdparty/npr-logo.png" alt="NPR logo" class="press-logo"/>
+  </a>
+</div>
 
 
 **CNN** - ["She spoke out about harassment in tech. Now, she's helping VCs 'move forward'"](http://money.cnn.com/2018/03/08/technology/movingforward-tech-vc-harassment/index.html) (March 8, 2018)
