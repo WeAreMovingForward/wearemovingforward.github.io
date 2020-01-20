@@ -13,7 +13,7 @@ In opening the conversation, we learned that the issue was already top of mind f
 ### **#MovingForward gathers VC commitments to foster a diverse, inclusive, and harassment-free workplace.**
 
 Specifically, our supporters have provided:
-* Pubicly available anti-harassment/discrimination policies
+* Publicly available anti-harassment/discrimination policies
 * Point(s)-of-contact for entrepreneurs to ask questions and report issues
 * A short statement on their efforts to nurture diverse, inclusive and harassment-free workplaces
 
