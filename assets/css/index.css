@@ -1,3 +1,8 @@
+/***** MOBILE FIRST *****/
+* {
+	box-sizing: border-box;
+}
+
 body, html {
   height: 100%;
   margin: 0;
@@ -8,8 +13,8 @@ body, html {
 }
 
 .content-container {
-  margin-left: 150px;
-  margin-right: 150px;
+  margin-left: 50px;
+  margin-right: 50px;
   height: 100%;
 }
 
@@ -30,16 +35,16 @@ body, html {
 .intro-content {
   display: flex;
   flex-direction: column;
-  width: 66.67%;
+  width: 100%;
   height: 100%;
   justify-content: center;
 }
 
 .intro-statement {
   font-family: Helvetica, sans-serif;
-  font-size: 64px;
+  font-size: 36px;
   color: white;
-  margin-bottom: 125px;
+  margin-bottom: 75px;
 }
 
 .intro-buttons {
@@ -53,10 +58,10 @@ body, html {
 /* BUTTONS */
 .button {
   color: white;
-  border: white solid 5px;
+  border: white solid 3px;
   padding: 10px;
   font-family: Helvetica, sans-serif;
-  font-size: 36px;
+  font-size: 18px;
 }
 
 .learn-more-button {
@@ -72,17 +77,17 @@ body, html {
 
 /* SECTION */
 .section-container {
-  margin: 150px 0;
+  margin: 50px 0;
 }
 
 .section-header {
   font-family: Helvetica, sans-serif;
-  font-size: 48px;
+  font-size: 36px;
 }
 
 .section-content {
   font-family: Times, serif;
-  font-size: 36px;
+  font-size: 24px;
 }
 
 /* LOGO GALLERY */
@@ -101,4 +106,49 @@ body, html {
 .column img {
   margin-top: 50px;
   width: 100%;
+}
+
+/***** FOR FULL SCREEN *****/
+@media only screen and (min-width: 768px) {
+  .content-container {
+    margin-left: 150px;
+    margin-right: 150px;
+    height: 100%;
+  }
+
+  .intro-content {
+    width: 66.67%;
+  }
+
+  .intro-statement {
+    font-size: 64px;
+    margin-bottom: 125px;
+  }
+
+  .button {
+    border: white solid 5px;
+    padding: 10px;
+    font-size: 36px;
+  }
+
+  .view-all-button {
+    color: black;
+    border: black solid 5px;
+  }
+
+  /* SECTION */
+  .section-container {
+    margin: 150px 0;
+  }
+
+  .section-header {
+    font-size: 48px;
+  }
+
+  .section-content {
+    font-size: 36px;
+  }
+
+
+
 }
