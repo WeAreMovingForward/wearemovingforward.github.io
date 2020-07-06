@@ -18,15 +18,42 @@ body, html {
   height: 100%;
 }
 
+/* HEADER STYLES */
+.header {
+  /* background-image: url("../img/Rectangle.jpeg"); */
+  background-color: #135889;
+  /* height: 800px;  */
+
+  /* Center and scale the image nicely */
+  /* background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover; */
+
+  position: fixed;
+  width: 100%;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+}
+
+.header-logo {
+  margin: 20px;
+}
+
+.header-menu {
+  margin: 0 20px;
+}
+
 /* INTRO STYLES */
 .intro-container {
-  background-image: url("../img/Rectangle.jpeg");
+  /* background-image: url("../img/Rectangle.jpeg"); */
+  background-color: #135889;
   height: 800px; 
 
   /* Center and scale the image nicely */
-  background-position: center;
+  /* background-position: center;
   background-repeat: no-repeat;
-  background-size: cover;
+  background-size: cover; */
 }
 
 .intro-content {
@@ -134,6 +161,10 @@ body, html {
   .content-container {
     margin-left: 150px;
     margin-right: 150px;
+  }
+
+  .intro-container {
+    padding-top: 120px;
   }
 
   .intro-content {
