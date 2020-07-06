@@ -20,11 +20,8 @@ body, html {
 
 /* INTRO STYLES */
 .intro-container {
-  /* The image used */
   background-image: url("../img/Rectangle.jpeg");
-
-  /* Full height */
-  height: 100%; 
+  height: 800px; 
 
   /* Center and scale the image nicely */
   background-position: center;
@@ -44,7 +41,7 @@ body, html {
   font-family: Helvetica, sans-serif;
   font-size: 36px;
   color: white;
-  margin-bottom: 75px;
+  margin-bottom: 50px;
 }
 
 .intro-buttons {
@@ -77,6 +74,7 @@ body, html {
 
 /* SECTION */
 .section-container {
+  width: 100%;
   margin: 50px 0;
 }
 
@@ -91,16 +89,23 @@ body, html {
 }
 
 /* LOGO GALLERY */
+.logo-container {
+  width: 100%;
+}
+
 .row {
   display: flex;
   align-items: center;
+  flex-wrap: wrap;
+  width: 100%;
+  height: 100%;
+  justify-content: center;
 }
 
 .column {
-  flex: 25%;
-  max-width: 25%;
   padding: 5px;
   margin-right: 30px;
+  width: 100%;
 }
 
 .column img {
@@ -108,12 +113,27 @@ body, html {
   width: 100%;
 }
 
-/***** FOR FULL SCREEN *****/
+/******** FOR MID SCREEN *********/
 @media only screen and (min-width: 768px) {
+  .intro-content {
+    width: 66.67%;
+  }
+
+  .intro-statement {
+    font-size: 48px;
+    margin-bottom: 50px;
+  }
+
+  .column {
+    width: 40%;
+  }
+}
+
+/***** FOR FULL SCREEN *****/
+@media only screen and (min-width: 996px) {
   .content-container {
     margin-left: 150px;
     margin-right: 150px;
-    height: 100%;
   }
 
   .intro-content {
@@ -149,6 +169,8 @@ body, html {
     font-size: 36px;
   }
 
-
+  .column {
+    width: 20%;
+  }
 
 }
