@@ -38,10 +38,20 @@ body, html {
 
 .header-logo {
   margin: 20px;
+  width: 300px;
+}
+
+.header-logo img {
+  width: 100%;
 }
 
 .header-menu {
   margin: 0 20px;
+  width: 50px;
+}
+
+.header-menu img {
+  width: 100%;
 }
 
 /* INTRO STYLES */
