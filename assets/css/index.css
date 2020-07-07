@@ -9,6 +9,7 @@ body, html {
 }
 
 .full-container {
+  /* margin-top: 100px; */
   height: 100%;
 }
 
@@ -30,6 +31,7 @@ body, html {
   background-size: cover; */
 
   position: fixed;
+  top: 0;
   width: 100%;
   display: flex;
   align-items: center;
@@ -58,7 +60,7 @@ body, html {
 .intro-container {
   /* background-image: url("../img/Rectangle.jpeg"); */
   background-color: #135889;
-  height: 800px; 
+  height: 600px; 
 
   /* Center and scale the image nicely */
   /* background-position: center;
@@ -219,13 +221,22 @@ td {
 
 /***** FOR FULL SCREEN *****/
 @media only screen and (min-width: 996px) {
+  .full-container {
+    margin-top: 100px;
+    height: 100%;
+  }
+
   .content-container {
     margin-left: 150px;
     margin-right: 150px;
   }
 
-  .intro-container {
+  /* .intro-container {
     padding-top: 120px;
+  } */
+
+  .intro-container {
+    height: 800px;
   }
 
   .intro-content {
@@ -234,7 +245,7 @@ td {
 
   .intro-statement {
     font-size: 64px;
-    margin-bottom: 125px;
+    margin-bottom: 80px;
   }
 
   .button {
