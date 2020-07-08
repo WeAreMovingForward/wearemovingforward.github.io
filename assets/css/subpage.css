@@ -1,0 +1,51 @@
+/******** MOBILE FIRST ********/
+body {
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+.full-container-subpage {
+  height: 100%;
+  margin-top: 150px;
+}
+
+.section-container p, .section-container li {
+  font-size: 16px;
+}
+
+.title {
+  font-size: 36px;
+}
+
+.join-us-button {
+  color: black;
+  border: black solid 5px;
+  width: fit-content;
+  /* margin: 100px auto; */
+}
+
+.policy-title {
+  font-size: 24px;
+  margin-bottom: 20px;
+}
+
+
+/******** FOR MID SCREEN *********/
+@media only screen and (min-width: 768px) {
+
+}
+
+/***** FOR FULL SCREEN *****/
+@media only screen and (min-width: 996px) {
+  .title {
+    font-size: 64px;
+  }
+
+  .section-container p, .section-container li {
+    font-size: 24px;
+  }
+
+  .policy-title {
+    font-size: 36px;
+  }
+  
+}
