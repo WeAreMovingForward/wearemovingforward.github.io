@@ -5,12 +5,36 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
   </head>
   <body>
+    <div id="myNav" class="overlay">
+      <a href="javascript:void(0)" class="closebtn" onclick="closeNav()">&times;</a>
+      <div class="overlay-content">
+        <div class="nav-left">
+          <a href="./directory.html">Policy Directory</a>
+          <a href="#">Org</a>
+          <a href="#">Team</a>
+          <a href="#">Media</a>
+        </div>
+        <div class="nav-line"></div>
+        <div class="nav-right">
+          <a href="#">Join the Movement</a>
+          <a href="#">Newsletter</a>
+          <div class="nav-logos">
+            <div class="logo-medium">
+              <img src="./assets/img/iconmonstr-medium-1.svg" />
+            </div>
+            <div class="logo-twitter">
+              <img src="./assets/img/iconmonstr-twitter-1.svg" />
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
     <div class="header">
       <div class="header-logo">
-        <img src="./assets/img/movingforward-logo.svg" />
+        <a href="#"><img src="./assets/img/movingforward-logo.svg" /></a>
       </div>
       <div class="header-menu">
-        <img src="./assets/img/Menu.svg" />
+        <img onclick="openNav()" src="./assets/img/Menu.svg" />
       </div>
     </div>
     <div class="full-container">
@@ -417,5 +441,7 @@
         </div>
       </div>
     </div>
+    
+    <script src="./script/index.js"></script>
   </body>
 </html>
