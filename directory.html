@@ -6,12 +6,36 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
   </head>
   <body>
+    <div id="myNav" class="overlay">
+      <a href="javascript:void(0)" class="closebtn" onclick="closeNav()">&times;</a>
+      <div class="overlay-content">
+        <div class="nav-left">
+          <a href="./directory.html">Policy Directory</a>
+          <a href="#">Org</a>
+          <a href="#">Team</a>
+          <a href="#">Media</a>
+        </div>
+        <div class="nav-line"></div>
+        <div class="nav-right">
+          <a href="./join.html">Join the Movement</a>
+          <a href="#">Newsletter</a>
+          <div class="nav-logos">
+            <div class="logo-medium">
+              <img src="./assets/img/iconmonstr-medium-1.svg" />
+            </div>
+            <div class="logo-twitter">
+              <img src="./assets/img/iconmonstr-twitter-1.svg" />
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
     <div class="header">
       <div class="header-logo">
-        <img src="./assets/img/movingforward-logo.svg" />
+        <a href="./index.html"><img src="./assets/img/movingforward-logo.svg" /></a>
       </div>
       <div class="header-menu">
-        <img src="./assets/img/Menu.svg" />
+        <img onclick="openNav()" src="./assets/img/Menu.svg" />
       </div>
     </div>
 
@@ -20,8 +44,8 @@
         <div class="section-container">
           <h1 class="title">Policy Directory</h1>
           <p>There is an inherent power inbalance between VCs and founders. While employees are protected by anti-harassment and anti-discrimination laws, founders do not fall under the category of "employee" when fundraising from a VC firm. This puts founders in a vulnerable state if they experience any form of harassment / discrimination.</p>
-          <p>This is where #MovingForward comes in. We facilitate VC firms in writing external anti-harassment and anti-discrimination policies, as well as providing reporting channels. With each firm that joins our movement, we hope to spark conversations internally and also support founders in reviewing policies, finding supportive investors, and identifying contacts.</p>
-          <p>In addition, oftentimes the discussion of and efforts to address harassment and discrimination have focused narrowly on sexual harassment and gender discrimination. We strongly believe that we need comprehensively and intersectionally inclusive workplaces and policies that consider not just gender but also race, age, sexuality, disability status, family status, immigration status, and many other dimensions of identity and experience. As such, baking intersectionality into your materials is a requirement of joining #MovingForward.</p>
+          <p>#MovingForward facilitates VC firms in writing external anti-harassment and anti-discrimination policies, as well as providing reporting channels. With each firm that joins our movement, we hope to spark conversations internally and also support founders in reviewing policies, finding supportive investors, and identifying contacts.</p>
+          <!-- <p>In addition, oftentimes the discussion of and efforts to address harassment and discrimination have focused narrowly on sexual harassment and gender discrimination. We strongly believe that we need comprehensively and intersectionally inclusive workplaces and policies that consider not just gender but also race, age, sexuality, disability status, family status, immigration status, and many other dimensions of identity and experience. As such, baking intersectionality into your materials is a requirement of joining #MovingForward.</p> -->
           <p>Our goals for this initiative are:</p>
           <ol>
             <li>Launch a public, collective step forward for the venture industry</li>
@@ -56,5 +80,7 @@
         </div>
       </div>
     </div>
+    <script src="./script/index.js"></script>
+  
   </body>
 </html>
