@@ -12,20 +12,84 @@ body {
   font-size: 16px;
 }
 
+/* Policy Directory Page */
+.title-container {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
 .title {
+  text-align: center;
   font-size: 36px;
+}
+
+.title-underline {
+  text-align: end;
+  width: 150px;
+  border-top: black solid 5px;
+  margin-top: 10px;
 }
 
 .join-us-button {
   color: black;
-  border: black solid 5px;
+  border: black solid 2px;
   width: fit-content;
+  font-size: 24px;
+  /* margin: 100px auto; */
+}
+
+.join-us-button:hover {
+  background-color: #135889;
+  color: white;
+  border: white solid 2px;
+  width: fit-content;
+  font-size: 24px;
+  cursor: pointer;
   /* margin: 100px auto; */
 }
 
 .policy-title {
   font-size: 24px;
   margin-bottom: 20px;
+}
+
+.policy-description {
+  margin: 30px 25%;
+  line-height: 25px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+
+.description-box {
+  /* background-color: rgb(21, 136, 103); */
+  background-color: #135889;
+  padding: 25px;
+  color: white;
+  border-radius: 8px;  
+}
+
+.policy-description p {
+  padding: 25px;
+}
+
+.goals {
+  /* border: black solid 2px; */
+  padding: 0 25px;
+}
+
+.list-item {
+  margin: 30px 0;
+}
+
+.list-item:hover {
+  border-bottom: cyan solid 2px;
+}
+
+.list-num {
+  font-size: 36px;
 }
 
 /* Join Us Page */
@@ -53,15 +117,19 @@ body {
 /***** FOR FULL SCREEN *****/
 @media only screen and (min-width: 996px) {
   .title {
-    font-size: 64px;
+    font-size: 36px;
   }
 
   .section-container p, .section-container li {
-    font-size: 24px;
+    font-size: 16px;
   }
 
   .policy-title {
     font-size: 36px;
   }
+
+  /* .policy-description {
+    margin: 30px 200px;
+  } */
   
 }

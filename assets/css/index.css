@@ -131,7 +131,7 @@ body, html {
 
 .header-logo {
   margin: 20px;
-  width: 300px;
+  width: 200px;
 }
 
 .header-logo img {
@@ -140,7 +140,7 @@ body, html {
 
 .header-menu {
   margin: 0 20px;
-  width: 50px;
+  width: 30px;
 }
 
 .header-menu img {
