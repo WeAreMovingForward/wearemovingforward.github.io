@@ -9,6 +9,7 @@ function closeNav() {
 /* Join Us Page */
 var joinVCIsOpen = false
 var joinFounderIsOpen = false
+var joinInvolveIsOpen = false
 
 function toggleJoinVC() {
   if (joinVCIsOpen) {
@@ -30,4 +31,15 @@ function toggleJoinFounder() {
     document.getElementById("join-founder").classList.add("join-answer-active");
   }
   joinFounderIsOpen = !joinFounderIsOpen;
+}
+
+function toggleJoinInvolve() {
+  if (joinInvolveIsOpen) {
+    // document.getElementById("join-vc").style.display="none";
+    document.getElementById("join-involve").classList.remove("join-answer-active");
+  } else {
+    // document.getElementById("join-vc").style.display="block";
+    document.getElementById("join-involve").classList.add("join-answer-active");
+  }
+  joinInvolveIsOpen = !joinInvolveIsOpen;
 }
