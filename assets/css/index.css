@@ -14,6 +14,11 @@ a {
   text-decoration: none;
 }
 
+.page-container {
+  position: relative;
+  min-height: 100vh;
+}
+
 .full-container {
   /* margin-top: 100px; */
   height: 100%;
@@ -23,6 +28,7 @@ a {
   margin-left: 50px;
   margin-right: 50px;
   /* height: 100%; */
+  padding-bottom: 100px;;
 }
 
 .intro-content-container {
@@ -154,17 +160,17 @@ a {
 }
 
 .footer {
-  background-image: url("../img/Rectangle.jpeg");
-  /* left: 0; */
-  /* bottom: 0; */
+  position: absolute;
+  bottom: 0;
   width: 100%;
   height: 100px;
-  color: white;
-  text-align: center;
 
+  background-image: url("../img/Rectangle.jpeg");
   background-position: center;
   background-repeat: no-repeat;
   background-size: cover;
+  color: white;
+  text-align: center;
 
   display: flex;
   justify-content: space-between;
