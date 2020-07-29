@@ -7,7 +7,7 @@ body, html {
   height: 100%;
   margin: 0;
   font-family: 'Red Hat Text', sans-serif;
-  /* font-family: 'Karla', sans-serif; */
+  color: #263238;
 }
 
 a {

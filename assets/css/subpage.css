@@ -1,6 +1,6 @@
 /******** MOBILE FIRST ********/
-body {
-  font-family: Arial, Helvetica, sans-serif;
+p {
+  font-family: 'Roboto', sans-serif;
 }
 
 .full-container-subpage {
@@ -27,7 +27,7 @@ body {
 .title-underline {
   text-align: end;
   width: 150px;
-  border-top: black solid 5px;
+  border-top: #263238 solid 5px;
   margin-top: 10px;
 }
 
@@ -55,41 +55,86 @@ body {
 }
 
 .policy-description {
-  margin: 30px 25%;
+  margin: 30px 0;
   line-height: 25px;
   display: flex;
   flex-direction: column;
   align-items: center;
 }
 
-
 .description-box {
-  /* background-color: rgb(21, 136, 103); */
-  background-color: #135889;
-  padding: 25px;
-  color: white;
-  border-radius: 8px;  
+  background-color: #009688;
+  color: #FAFAFA;
+  border-radius: 6px;  
+}
+
+.description-box-2 {
+  background-color: #1976D2;
+  color: #FAFAFA;
+  border-radius: 6px;  
 }
 
 .policy-description p {
-  padding: 25px;
+  padding: 20px;
 }
 
-.goals {
-  /* border: black solid 2px; */
-  padding: 0 25px;
+.goals p {
+  font-weight: 600;
 }
 
 .list-item {
-  margin: 30px 0;
-}
-
-.list-item:hover {
-  border-bottom: cyan solid 2px;
+  margin: 36px 30px;
+  display: flex;
+  align-items: center;
 }
 
 .list-num {
-  font-size: 36px;
+  font-size: 48px;
+  margin-right: 20px;
+  flex: 10%;
+  text-align: center;
+}
+
+#one {
+  color: #009688;
+}
+
+#two {
+  color: #00ACC1;
+}
+
+#three {
+  color: #1976D2;
+}
+
+.list-content {
+  font-family: 'Roboto', sans-serif;
+  font-weight: 600;
+  flex: 90%;
+}
+
+.list-content:hover {
+  color: #009688;
+}
+
+#two-content:hover {
+  color: #00ACC1;
+}
+
+#three-content:hover {
+  color: #1976D2;
+}
+
+.subpage-join-button {
+  margin: 50px auto 0 auto;
+  color: black;
+  border: black solid 3px;
+  width: fit-content;
+}
+
+.subpage-join-button:hover {
+  background-color: black;
+  color: #f1f1f1;
 }
 
 /* Join Us Page */
@@ -137,6 +182,9 @@ body {
 
 /******** FOR MID SCREEN *********/
 @media only screen and (min-width: 768px) {
+  .policy-description {
+    margin: 30px 15%;
+  }
 
 }
 
@@ -154,8 +202,8 @@ body {
     font-size: 36px;
   }
 
-  /* .policy-description {
-    margin: 30px 200px;
-  } */
+  .policy-description {
+    margin: 30px 25%;
+  }
   
 }
