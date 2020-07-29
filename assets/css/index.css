@@ -6,6 +6,12 @@
 body, html {
   height: 100%;
   margin: 0;
+  font-family: 'Red Hat Text', sans-serif;
+  /* font-family: 'Karla', sans-serif; */
+}
+
+a {
+  text-decoration: none;
 }
 
 .full-container {
@@ -46,7 +52,7 @@ body, html {
   width: 100%;
   text-align: center;
   margin-top: 30px;
-  font-family: sans-serif;
+  font-family: 'Roboto', sans-serif;
 
   display: flex;
   justify-content: center;
@@ -203,7 +209,6 @@ body, html {
 }
 
 .intro-statement {
-  font-family: Helvetica, sans-serif;
   font-size: 36px;
   color: white;
   margin-bottom: 50px;
@@ -220,21 +225,35 @@ body, html {
 /* BUTTONS */
 .button {
   color: white;
-  border: white solid 3px;
+  border: white solid 2px;
   padding: 10px;
-  font-family: Helvetica, sans-serif;
-  font-size: 18px;
+  font-size: 16px;
 }
 
 .learn-more-button {
   margin-right: 30px;
 }
 
+.learn-more-button:hover {
+  background-color: #f1f1f1;
+  color: #135889;
+}
+
+.join-movement-button:hover {
+  background-color: #f1f1f1;
+  color: #135889;
+}
+
 .view-all-button {
   color: black;
-  border: black solid 5px;
+  border: black solid 2px;
   width: fit-content;
   margin: 100px auto;
+}
+
+.view-all-button:hover {
+  background-color: black;
+  color: #f1f1f1;
 }
 
 /* SECTION */
@@ -244,13 +263,13 @@ body, html {
 }
 
 .section-header {
-  font-family: Helvetica, sans-serif;
-  font-size: 36px;
+  font-size: 24px;
 }
 
 .section-content {
-  font-family: Times, serif;
-  font-size: 24px;
+  font-size: 16px;
+  font-family: 'Roboto', sans-serif;
+  font-weight: 300;
 }
 
 /* LOGO GALLERY */
@@ -297,7 +316,7 @@ tr {
   display: flex;
   align-items: center;
   padding: 15px;
-  font-family: Arial, Helvetica, sans-serif;
+  font-family: 'Roboto', sans-serif;
 }
 
 tr:not(:last-child) {
@@ -348,7 +367,7 @@ td {
 /***** FOR FULL SCREEN *****/
 @media only screen and (min-width: 996px) {
   .full-container {
-    margin-top: 100px;
+    margin-top: 80px;
     height: 100%;
   }
 
@@ -380,14 +399,14 @@ td {
   }
 
   .button {
-    border: white solid 5px;
+    border: white solid 3px;
     padding: 10px;
-    font-size: 30px;
+    font-size: 24px;
   }
 
   .view-all-button {
     color: black;
-    border: black solid 5px;
+    border: black solid 3px;
   }
 
   /* SECTION */
@@ -396,11 +415,11 @@ td {
   }
 
   .section-header {
-    font-size: 48px;
+    font-size: 36px;
   }
 
   .section-content {
-    font-size: 36px;
+    font-size: 24px;
   }
 
   .column {
