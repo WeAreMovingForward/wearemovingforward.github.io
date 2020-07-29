@@ -12,7 +12,7 @@ p {
   font-size: 16px;
 }
 
-/* Policy Directory Page */
+/******* Policy Directory Page *******/
 .title-container {
   display: flex;
   flex-direction: column;
@@ -137,7 +137,41 @@ p {
   color: #f1f1f1;
 }
 
-/* Join Us Page */
+/********** Our Org Page ********/
+.org-content-container {
+  margin: 50px 0;
+  line-height: 25px;
+}
+
+.org-title {
+  font-size: 24px;
+  font-weight: 500;
+  margin-bottom: 20px;
+}
+
+.quote {
+  font-style: italic;
+  margin: 40px 20px;
+  border-left: #263238 solid 2px;
+  padding-left: 10px;
+}
+
+.org-subtitle {
+  font-size: 18px;
+  font-weight: 400;
+  margin: 30px 0 20px 0;
+}
+
+.org-content-container a {
+  color: #135889;
+  border-bottom: #135889 solid 1px;
+}
+
+.highlight {
+  color: #00ACC1;
+}
+
+/********** Join Us Page ********/
 .join-prompt {
   font-size: 24px;
   padding: 20px;
@@ -186,6 +220,10 @@ p {
     margin: 30px 15%;
   }
 
+  .org-content-container {
+    margin: 50px 15%;
+  }  
+
 }
 
 /***** FOR FULL SCREEN *****/
@@ -205,5 +243,9 @@ p {
   .policy-description {
     margin: 30px 25%;
   }
+
+  .org-content-container {
+    margin: 75px 25%;
+  }  
   
 }
