@@ -140,8 +140,8 @@ a {
 }
 
 .header-logo {
-  margin: 20px;
-  width: 200px;
+  margin: 20px 30px;
+  width: 170px;
 }
 
 .header-logo img {
@@ -149,8 +149,8 @@ a {
 }
 
 .header-menu {
-  margin: 0 20px;
-  width: 30px;
+  margin: 0 30px;
+  width: 25px;
 }
 
 .header-menu:hover {
