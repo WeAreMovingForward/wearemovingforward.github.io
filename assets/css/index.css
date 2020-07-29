@@ -108,8 +108,8 @@ a {
 
 .overlay .closebtn {
   position: absolute;
-  top: 20px;
-  right: 45px;
+  top: 0;
+  right: 20px;
   font-size: 60px;
 }
 
@@ -153,6 +153,10 @@ a {
 .header-menu {
   margin: 0 20px;
   width: 30px;
+}
+
+.header-menu:hover {
+  cursor: pointer;
 }
 
 .header-menu img {
