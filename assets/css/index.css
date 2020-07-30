@@ -32,7 +32,7 @@ a:hover {
   margin-left: 50px;
   margin-right: 50px;
   /* height: 100%; */
-  padding-bottom: 250px;
+  padding-bottom: 400px;
 }
 
 .intro-content-container {
@@ -204,7 +204,7 @@ a:hover {
 
 .footer-main-container {
   display: flex;
-  flex-direction: row;
+  flex-direction: column;
 }
 
 .footer-left {
@@ -217,11 +217,12 @@ a:hover {
   display: flex;
   flex-direction: row;
   margin: 20px;
+  justify-content: center;
 }
 
 .footer-link {
   margin-right: 20px;
-  font-size: 18px;
+  font-size: 16px;
   font-weight: 500;
 }
 
@@ -234,6 +235,7 @@ a:hover {
   display: flex;
   flex-direction: row;
   margin: 10px 20px;
+  justify-content: center;
 }
 
 .social-logo {
@@ -256,10 +258,14 @@ a:hover {
   display: flex;
   flex-direction: column;
   flex: 50%;
+  align-items: center;
 }
 
 .footer-sub-description {
   margin: 20px;
+  border-top: #f1f1f1 solid 1px;
+  padding-top: 20px;
+  text-align: center;
 }
 
 .footer-description {
@@ -276,6 +282,7 @@ a:hover {
 .footer-small-text {
   font-size: 12px;
   margin: 5px 20px;
+  text-align: center;
 }
 
 /* INTRO STYLES */
@@ -429,6 +436,7 @@ a:hover {
   .content-container {
     margin-left: 150px;
     margin-right: 150px;
+    padding-bottom: 250px;
   }
 
   .intro-content-container {
@@ -486,4 +494,107 @@ a:hover {
     width: 25%;
   }
 
+  /* FOOTER STYLES */
+
+  .footer {
+    position: absolute;
+    bottom: 0;
+    width: 100%;
+    height: fit-content;
+
+    background-image: url("../img/Rectangle.jpeg");
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    color: #f1f1f1;
+    /* text-align: center; */
+
+    display: flex;
+    flex-direction: column;
+
+    padding: 20px;
+  }
+
+  .footer-main-container {
+    display: flex;
+    flex-direction: row;
+  }
+
+  .footer-left {
+    display: flex;
+    flex-direction: column;
+    flex: 50%;
+  }
+
+  .footer-links {
+    display: flex;
+    flex-direction: row;
+    margin: 20px;
+    justify-content: flex-start;
+  }
+
+  .footer-link {
+    margin-right: 20px;
+    font-size: 18px;
+    font-weight: 500;
+  }
+
+  .footer-link a {
+    text-decoration: none;
+    color: #f1f1f1;
+  }
+
+  .footer-socials {
+    display: flex;
+    flex-direction: row;
+    margin: 10px 20px;
+    justify-content: flex-start;
+  }
+
+  .social-logo {
+    margin-right: 20px;
+    background-color: #f1f1f1;
+    padding: 10px;
+    border-radius: 100px;
+    width: 40px;
+    height: 40px;
+  }
+
+  .social-logo img {
+    width: 100%;
+    height: 100%;
+    object-fit: contain;
+    overflow: hidden;
+  }
+
+  .footer-right {
+    display: flex;
+    flex-direction: column;
+    flex: 50%;
+    align-items: flex-start;
+  }
+
+  .footer-sub-description {
+    margin: 20px;
+    border: none;
+    padding: 0;
+    text-align: start;
+  }
+
+  .footer-description {
+    line-height: 25px;
+    font-family: 'Roboto', sans-serif;
+  }
+
+  .footer-title {
+    font-size: 18px;
+    font-weight: 600;
+    margin-bottom: 10px;
+  }
+
+  .footer-small-text {
+    font-size: 12px;
+    margin: 5px 20px;
+    text-align: start;
+  }
 }
