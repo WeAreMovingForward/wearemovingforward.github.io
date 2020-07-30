@@ -314,6 +314,19 @@ a:hover {
   width: 75%;
 }
 
+.view-media-button {
+  color: black;
+  border: black solid 2px;
+  width: fit-content;
+  margin: 0 auto;
+}
+
+.view-media-button:hover {
+  background-color: black;
+  color: #f1f1f1;
+}
+
+
 /******** FOR MID SCREEN *********/
 @media only screen and (min-width: 768px) {
   .intro-content {
@@ -372,7 +385,12 @@ a:hover {
 
   .view-all-button {
     color: black;
-    border: black solid 3px;
+    border: black solid 2px;
+  }
+
+  .view-media-button {
+    color: black;
+    border: black solid 2px;
   }
 
   /* SECTION */
