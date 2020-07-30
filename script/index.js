@@ -13,10 +13,8 @@ var joinInvolveIsOpen = false
 
 function toggleJoinVC() {
   if (joinVCIsOpen) {
-    // document.getElementById("join-vc").style.display="none";
     document.getElementById("join-vc").classList.remove("join-answer-active");
   } else {
-    // document.getElementById("join-vc").style.display="block";
     document.getElementById("join-vc").classList.add("join-answer-active");
   }
   joinVCIsOpen = !joinVCIsOpen;
@@ -24,10 +22,8 @@ function toggleJoinVC() {
 
 function toggleJoinFounder() {
   if (joinFounderIsOpen) {
-    // document.getElementById("join-vc").style.display="none";
     document.getElementById("join-founder").classList.remove("join-answer-active");
   } else {
-    // document.getElementById("join-vc").style.display="block";
     document.getElementById("join-founder").classList.add("join-answer-active");
   }
   joinFounderIsOpen = !joinFounderIsOpen;
@@ -35,10 +31,8 @@ function toggleJoinFounder() {
 
 function toggleJoinInvolve() {
   if (joinInvolveIsOpen) {
-    // document.getElementById("join-vc").style.display="none";
     document.getElementById("join-involve").classList.remove("join-answer-active");
   } else {
-    // document.getElementById("join-vc").style.display="block";
     document.getElementById("join-involve").classList.add("join-answer-active");
   }
   joinInvolveIsOpen = !joinInvolveIsOpen;

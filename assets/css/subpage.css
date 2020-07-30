@@ -297,14 +297,20 @@ td {
 
 .join-prompt:hover {
   cursor: pointer;
+  color: #009688;
 }
 
 .join-section {
   /* width: fit-content; */
   margin: 0 25%;
-  border-bottom: black solid 2px;
+  /* border-bottom: black solid 1px; */
   /* border-bottom: black solid 2px; */
   /* padding: 20px; */
+  line-height: 25px;
+}
+
+.join-section:not(:last-child) {
+  border-bottom: black solid 1px;
 }
 
 #join-section-first {
@@ -330,6 +336,25 @@ td {
 .join-answer-active {
   opacity: 1;
   height: 100%;
+}
+
+.join-section ol {
+  margin: 25px 0;
+}
+
+.join-section li {
+  font-family: 'Roboto', sans-serif;
+  margin: 10px 50px 10px 0;
+  color: #135889;
+}
+
+.join-section a {
+  color: #135889;
+  border-bottom: #135889 solid 1px;
+}
+
+.extra-margin {
+  margin: 30px 0;
 }
 
 /******** FOR MID SCREEN *********/
