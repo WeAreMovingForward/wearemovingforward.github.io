@@ -314,52 +314,6 @@ a:hover {
   width: 75%;
 }
 
-/* COMMUNITY TABLE */
-table {
-  width: 100%;
-}
-
-tbody {
-  width: 100%;
-}
-
-tr {
-  width: 100%;
-  display: flex;
-  align-items: center;
-  padding: 15px;
-  font-family: 'Roboto', sans-serif;
-}
-
-tr:not(:last-child) {
-  border-bottom: lightgray solid 1px;
-}
-
-td {
-  padding: 10px;
-  /* width: 33.33%; */
-}
-
-.community-source {
-  font-weight: bold;
-  width: 25%;
-}
-
-.community-article {
-  width: 50%;
-}
-
-.community-article a {
-  text-decoration: inherit;
-  color: #135889;
-}
-
-.community-date {
-  font-style: italic;
-  width: 25%;
-  text-align: end;
-}
-
 /******** FOR MID SCREEN *********/
 @media only screen and (min-width: 768px) {
   .intro-content {

@@ -224,6 +224,71 @@ p {
   border: none;
 }
 
+/********** Media Page ***********/
+table {
+  width: 100%;
+}
+
+tbody {
+  width: 100%;
+}
+
+tr {
+  width: 100%;
+  display: flex;
+  align-items: center;
+  font-family: 'Roboto', sans-serif;
+  padding: 10px 0;
+}
+
+tr:not(:last-child) {
+  border-bottom: lightgray solid 1px;
+}
+
+td {
+  padding: 10px;
+  font-size: 14px;
+  /* width: 33.33%; */
+}
+
+.community-source {
+  font-weight: bold;
+  width: 25%;
+}
+
+.community-article {
+  width: 50%;
+}
+
+.community-article a {
+  text-decoration: inherit;
+  color: #135889;
+}
+
+.community-date {
+  font-style: italic;
+  width: 25%;
+  text-align: end;
+  font-size: 12px;
+}
+
+.talk-location {
+  width: 20%;
+  font-size: 12px;
+}
+
+.talk-title {
+  width: 60%;
+  font-weight: bold;
+}
+
+.talk-date {
+  font-style: italic;
+  width: 20%;
+  text-align: end;
+  font-size: 12px;
+}
+
 /********** Join Us Page ********/
 .join-prompt {
   font-size: 24px;
