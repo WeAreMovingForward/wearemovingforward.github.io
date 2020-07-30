@@ -260,7 +260,7 @@ a:hover {
   color: black;
   border: black solid 2px;
   width: fit-content;
-  margin: 100px auto;
+  margin: 70px auto;
 }
 
 .view-all-button:hover {
@@ -275,10 +275,13 @@ a:hover {
 }
 
 .section-header {
+  text-align: center;
   font-size: 24px;
+  font-weight: 500;
 }
 
 .section-content {
+  text-align: center;
   font-size: 16px;
   font-family: 'Roboto', sans-serif;
   font-weight: 300;
@@ -300,32 +303,19 @@ a:hover {
 
 .column, .column-press {
   padding: 5px;
-  margin-right: 50px;
-  width: 100%;
+  /* margin-right: 50px; */
+  max-width: 150px;;
   margin-top: 50px;
   text-align: center;
 }
 
 .column-press {
-  margin: 30px;
+  /* margin: 30px; */
 }
 
 .column img, .column-press img {
   width: 75%;
 }
-
-.view-media-button {
-  color: black;
-  border: black solid 2px;
-  width: fit-content;
-  margin: 0 auto;
-}
-
-.view-media-button:hover {
-  background-color: black;
-  color: #f1f1f1;
-}
-
 
 /******** FOR MID SCREEN *********/
 @media only screen and (min-width: 768px) {
@@ -339,7 +329,7 @@ a:hover {
   }
 
   .column, .column-press {
-    width: 40%;
+    margin-right: 50px;
   }
 }
 
@@ -386,11 +376,7 @@ a:hover {
   .view-all-button {
     color: black;
     border: black solid 2px;
-  }
-
-  .view-media-button {
-    color: black;
-    border: black solid 2px;
+    font-size: 18px;
   }
 
   /* SECTION */
@@ -399,16 +385,16 @@ a:hover {
   }
 
   .section-header {
-    font-size: 36px;
+    font-size: 30px;
   }
 
   .section-content {
-    font-size: 24px;
+    font-size: 18px;
   }
 
-  .column {
-    width: 20%;
-  }
+  /* .column {
+    max-width: 150px;
+  } */
 
   .column-press {
     width: 25%;
