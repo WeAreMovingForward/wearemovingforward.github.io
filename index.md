@@ -39,6 +39,10 @@ Of note: Oftentimes the discussion of and efforts to address harassment and disc
 
 <iframe class="airtable-embed" src="https://airtable.com/embed/shrUkljNsrKY515xw?backgroundColor=orange&viewControls=on" frameborder="0" onmousewheel="" width="100%" height="533" style="background: transparent; border: 1px solid #ccc;"></iframe>
 
+## [](#vcs-mf) VCs #MovingForward - Africa
+
+<iframe class="airtable-embed" src="https://airtable.com/embed/shrWRWuxgpAljiXp1?backgroundColor=orange&viewControls=on" frameborder="0" onmousewheel="" width="100%" height="533" style="background: transparent; border: 1px solid #ccc;"></iframe>
+
 ## [](#vcs-MF) "_We have created reporting contacts and a policy, but #MovingForward cannot confirm that a copy of the policy will be available digitally upon request._"
 
 <iframe class="airtable-embed" src="https://airtable.com/embed/shrAKTXKizqSo34vz?backgroundColor=orange&viewControls=on" frameborder="0" onmousewheel="" width="100%" height="533" style="background: transparent; border: 1px solid #ccc;"></iframe>
