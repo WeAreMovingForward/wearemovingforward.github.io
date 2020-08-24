@@ -27,19 +27,19 @@ Of note: Oftentimes the discussion of and efforts to address harassment and disc
 
 # [](#vcs-mf) _"We've taken action towards creating more diverse and inclusive workplaces by making our discrimination & harassment policies and reporting contacts available to the public."_
 
-## [](#vcs-mf) VCs #MovingForward - North America
+## [](#vcs-mf-na) VCs #MovingForward - North America
 
 <iframe class="airtable-embed" src="https://airtable.com/embed/shrnSQtiGLgk3rYPh?backgroundColor=orange&viewControls=on" frameborder="0" onmousewheel="" width="100%" height="533" style="background: transparent; border: 1px solid #ccc;"></iframe>
 
-## [](#vcs-mf) VCs #MovingForward - Europe
+## [](#vcs-mf-europe) VCs #MovingForward - Europe
 
 <iframe class="airtable-embed" src="https://airtable.com/embed/shrY5LHMVzJngfiNN?backgroundColor=orange&viewControls=on" frameborder="0" onmousewheel="" width="100%" height="533" style="background: transparent; border: 1px solid #ccc;"></iframe>
 
-## [](#vcs-mf) VCs #MovingForward - Asia, Australia & New Zealand
+## [](#vcs-mf-asia) VCs #MovingForward - Asia, Australia & New Zealand
 
 <iframe class="airtable-embed" src="https://airtable.com/embed/shrUkljNsrKY515xw?backgroundColor=orange&viewControls=on" frameborder="0" onmousewheel="" width="100%" height="533" style="background: transparent; border: 1px solid #ccc;"></iframe>
 
-## [](#vcs-mf) VCs #MovingForward - Africa
+## [](#vcs-mf-africa) VCs #MovingForward - Africa
 
 <iframe class="airtable-embed" src="https://airtable.com/embed/shrWRWuxgpAljiXp1?backgroundColor=orange&viewControls=on" frameborder="0" onmousewheel="" width="100%" height="533" style="background: transparent; border: 1px solid #ccc;"></iframe>
 
