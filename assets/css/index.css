@@ -35,12 +35,6 @@ a:hover {
   padding-bottom: 400px;
 }
 
-.intro-content-container {
-  margin-left: 50px;
-  margin-right: 50px;
-  height: 100%;
-}
-
 /* NAV STYLES */
 .overlay {
   height: 0;
@@ -142,15 +136,7 @@ a:hover {
 
 /* HEADER STYLES */
 .header {
-  /* background-image: url("../img/Rectangle.jpeg"); */
   background-color: #135889;
-  /* height: 800px;  */
-
-  /* Center and scale the image nicely */
-  /* background-position: center;
-  background-repeat: no-repeat;
-  background-size: cover; */
-
   position: fixed;
   top: 0;
   width: 100%;
@@ -287,14 +273,14 @@ a:hover {
 
 /* INTRO STYLES */
 .intro-container {
-  /* background-image: url("../img/Rectangle.jpeg"); */
   background-color: #135889;
   height: 600px; 
+}
 
-  /* Center and scale the image nicely */
-  /* background-position: center;
-  background-repeat: no-repeat;
-  background-size: cover; */
+.intro-content-container {
+  margin-left: 50px;
+  margin-right: 50px;
+  height: 100%;
 }
 
 .intro-content {
@@ -374,10 +360,22 @@ a:hover {
   margin-top: 30px;
 }
 
+.left-aligned {
+  text-align: left;
+}
+
 .section-underline {
   width: 150px;
   border-top: #263238 solid 5px;
   margin: 10px auto;
+}
+
+.about-we-are-not {
+  display: flex;
+}
+
+.about-we-are-not-side {
+  width: 50%;
 }
 
 /* LOGO GALLERY */
@@ -430,28 +428,24 @@ a:hover {
 @media only screen and (min-width: 996px) {
   .full-container {
     margin-top: 80px;
-    height: 100%;
+    /* height: 100%; */
   }
 
   .content-container {
-    margin-left: 150px;
-    margin-right: 150px;
+    margin-left: 200px;
+    margin-right: 200px;
     padding-bottom: 250px;
+  }
+
+  .intro-container {
+    height: 800px;
   }
 
   .intro-content-container {
     margin-left: 150px;
     margin-right: 150px;
   }
-
-  /* .intro-container {
-    padding-top: 120px;
-  } */
-
-  .intro-container {
-    height: 800px;
-  }
-
+  
   .intro-content {
     width: 66.67%;
   }
@@ -492,6 +486,10 @@ a:hover {
 
   .column-press {
     width: 25%;
+  }
+
+  .about-we-are-not-side {
+    margin: 50px;
   }
 
   /* FOOTER STYLES */
