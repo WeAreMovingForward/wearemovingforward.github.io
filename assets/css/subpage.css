@@ -12,6 +12,29 @@ p {
   font-size: 16px;
 }
 
+/******* For Founders Page **********/
+.gallery-row {
+  display: flex;
+  align-items: center;
+  flex-wrap: wrap;
+  width: 100%;
+  height: 100%;
+  justify-content: space-around;
+}
+
+.gallery-col {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  text-align: center;
+  width: 175px;
+  height: 175px;
+  margin: 20px 8px;
+  border: #009688 2px solid;
+  border-radius: 50px;
+  padding: 25px;
+}
+
 /******* Policy Directory Page *******/
 .title-container {
   display: flex;
