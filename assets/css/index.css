@@ -35,6 +35,10 @@ a:hover {
   padding-bottom: 400px;
 }
 
+li {
+  margin-bottom: 20px;
+}
+
 /* NAV STYLES */
 .overlay {
   height: 0;
