@@ -205,8 +205,8 @@ p {
 
 .we-are {
   border: darkslategray solid 1px;
-  padding: 20px 90px;
-  margin: 50px 0;
+  padding: 20px;
+  margin: 20px 0;
 }
 
 /********** The Team Page ********/
@@ -341,7 +341,7 @@ td {
 
 .join-section {
   /* width: fit-content; */
-  margin: 0 25%;
+  /* margin: 0 25%; */
   /* border-bottom: black solid 1px; */
   /* border-bottom: black solid 2px; */
   /* padding: 20px; */
@@ -428,6 +428,15 @@ td {
 
   .org-content-container {
     margin: 75px 25%;
-  }  
+  }
+
+  .we-are {
+    padding: 20px 90px;
+    margin: 50px 0;
+  }
+
+  .join-section {
+    margin: 0 25%;
+  }
   
 }

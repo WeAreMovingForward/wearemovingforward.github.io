@@ -201,10 +201,7 @@ li {
 }
 
 .footer-links {
-  display: flex;
-  flex-direction: row;
-  margin: 20px;
-  justify-content: center;
+  display: none;
 }
 
 .footer-link {
