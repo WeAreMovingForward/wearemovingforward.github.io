@@ -6,6 +6,12 @@ function closeNav() {
   document.getElementById("myNav").style.height = "0%";
 }
 
+/* Founders Page */
+function showText(elementId, text) {
+  var element = document.getElementById(elementId);
+  element.innerText = text;
+}
+
 /* Join Us Page */
 var joinVCIsOpen = false
 var joinFounderIsOpen = false
