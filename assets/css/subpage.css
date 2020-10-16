@@ -45,6 +45,32 @@ p {
   font-size: 14px;
 }
 
+#gallery-idea-link {
+  color: #263238;
+  border: none;
+}
+
+#gallery-idea {
+  border: #157180 2px solid;
+}
+
+#gallery-idea:hover {
+  background-color: #157180;
+}
+
+#gallery-all-link {
+  color: #263238;
+  border: none;
+}
+
+#gallery-all {
+  border: #157180 2px solid;
+}
+
+#gallery-all:hover {
+  background-color: #157180;
+}
+
 /******* Policy Directory Page *******/
 .title-container {
   display: flex;
