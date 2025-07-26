@@ -5,8 +5,36 @@
     <link rel="stylesheet" href="assets/css/index.css">
     <link href="https://fonts.googleapis.com/css2?family=Red+Hat+Text:wght@400;500;700&family=Karla:wght@400;700&family=Roboto:wght@300;400;500;700&display=swap" rel="stylesheet">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <style>
+      .sunset-banner {
+        background-color: #ff6b35;
+        color: white;
+        text-align: center;
+        padding: 12px 20px;
+        font-family: 'Red Hat Text', sans-serif;
+        font-size: 14px;
+        line-height: 1.4;
+        position: relative;
+        z-index: 10;
+      }
+      .sunset-banner a {
+        color: white;
+        text-decoration: underline;
+        font-weight: bold;
+      }
+      .sunset-banner a:hover {
+        color: #f0f0f0;
+      }
+      @media (max-width: 768px) {
+        .sunset-banner {
+          font-size: 12px;
+          padding: 10px 15px;
+        }
+      }
+    </style>
   </head>
   <body>
+    
     <div class="page-container">
 
       <div id="myNav" class="overlay">
@@ -50,6 +78,9 @@
         </div>
       </div>
       <div class="full-container">
+        <div class="sunset-banner">
+          <strong>We are sunsetting #MovingForward as of August 1, 2025.</strong> A note from the founders: <a href="https://medium.com/@movingforwardvc/movingforward-and-moving-on-583382d7503b" target="_blank">https://medium.com/@movingforwardvc/movingforward-and-moving-on-583382d7503b</a>
+        </div>
         <div class="intro-container">
           <div class="intro-content-container">
             <div class="intro-content">
